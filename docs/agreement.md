@@ -1,0 +1,357 @@
+# Customer Agreement
+
+This Websoft9 Inc. (“Websoft9”, “we”, “our” and “us”)  Website and Customer (Who use the Images of Websoft9) Agreement
+
+**Application and Acceptance of the Terms**
+
+Using Images on Cloud Platform (E.g AWS,Azure,HUAWEICLOUD,AlibabaCloud) and visit the website of Websoft9 you accept the terms and conditions set forth in this Agreement. If you do not accept all of these terms and conditions, please unsubscribe Websoft9’s Image. By completing the registration process for an Account and clicking the “I agree” button, you agree to be bound by this Agreement as well as the terms and conditions of the following:
+
+- Websoft9 Terms of Use
+- Privacy Policy
+- Cloud Platform Websifte legal from time to time,
+- Trademark
+- End User License Agreement
+- (all of the above collectively referred to as the “**Terms**”).
+
+**Use of Websoft9 Images**
+
+You may access, purchase, subscribe to, or use any and all of the Images or services made available by Websoft9 in accordance with the Terms and any specific service level agreements (“**SLAs**”) prescribed by Alibaba Cloud in relation to such products or services (the “**Alibaba Cloud Services**”) via your Account. The Alibaba Cloud Services include the cloud computing products and services offered by Alibaba Cloud (including the associated application programming interfaces (“APIs”)), the trademarks, service marks, logos, and other Intellectual Property Rights (as hereafter defined) of Alibaba Cloud and its affiliates made available to you, and the functions, features, and content of your Account and the Alibaba Cloud Platform. The Alibaba Cloud Services do not include any content or services made available to you by any third party on the Alibaba Cloud Platform (including any third party content provided on the International Marketplace) or in conjunction with the Alibaba Cloud Services.
+
+2.2 Some products, services, promotions, campaigns, service level agreements, guarantees, and/or other forms of offerings may only apply to customers in particular locations (including as may be described in the regional pages of the Alibaba Cloud Platform) (the “**Regional Offerings**”). These Regional Offerings may be offered or provided by entities other than Alibaba Cloud. These Regional Offerings and the terms related thereto may not apply to you and/or the main Alibaba Cloud Platform. Unless otherwise specified, these Regional Offerings are not offered or provided by Alibaba Cloud and Alibaba Cloud is not liable for any matters related to the Regional Offerings. Likewise, the products, services, promotions, campaigns, service level agreements, guarantees, and/or other forms of offerings of the Alibaba Cloud Services (the “**Alibaba Cloud Offerings**”) may not apply to customers eligible for Regional Offerings and the offering entities of the Regional Offerings shall not be liable for these offerings unless otherwise specified. You are responsible for reviewing the terms and conditions for each Regional Offering and Alibaba Cloud Offering carefully before agreeing to participate, purchase, or use any of the Regional Offerings or Alibaba Cloud Offerings as the terms and conditions for each offering may differ. You agree that you shall be bound by our determination as to whether a particular product, service, promotion, campaign, service level agreement, guarantee, and/or other forms of offering constitutes a Regional Offering and/or an Alibaba Cloud Offering and the relevant terms applicable thereto. If you do not agree to the applicable terms and conditions, you shall cease your participation in, use, or purchase of the relevant offerings.
+
+2.3 You may register a user name and password for you to access the Alibaba Cloud Services through your Account. In using your Account, you acknowledge and agree to the following:
+
+(a) You shall be solely responsible for (i) maintaining the confidentiality of your user name and password and (ii) for all activities that occur under your user name and password; and
+
+(b) You acknowledge that sharing of your Account with other persons, or allowing multiple users other than yourself or your business entity to use your Account may cause irreparable harm to Alibaba Cloud and you shall indemnify Alibaba Cloud against any loss or damages (including but not limited to loss of profits) suffered by Alibaba Cloud as a result of such sharing of your Account. You hereby undertake to notify Alibaba Cloud immediately of any unauthorized use of your Account, user ID or password or any other breach of security. You further agree that Alibaba Cloud shall not be liable to you, your users or any third party, for any loss or damages arising from unauthorized use of your user name or password, or any other failure by you, your employees, agents, affiliates or representatives, to comply with this Clause 2.3.
+
+2.4 Alibaba Cloud may suspend or terminate all or part of the free Alibaba Cloud Services at any time in its sole discretion. Alibaba Cloud reserves the right to charge for any and all Alibaba Cloud Services or any feature or functionality of the Alibaba Cloud Services at any time in its sole discretion.
+
+2.5 Benefits, features and functions available to you for any Alibaba Cloud Services may vary for different countries and regions. No warranty or representation is given that a particular feature or function or the same type and extent of features and functions will be available in all countries and regions or for all users. Alibaba Cloud may in its sole discretion limit, deny or create different levels of access to and use of any Alibaba Cloud Services (or any features comprised therein) with respect to different users.
+
+2.6 Subject to any specific terms of service of any particular Alibaba Cloud Service, Alibaba Cloud has the right to change, upgrade, modify, limit or suspend the Alibaba Cloud Services or any of its related functionalities or applications at any time temporarily or permanently under the following terms:
+
+(a) With respect to cloud computing products and services, Alibaba Cloud has the right to introduce or remove features, functionalities, applications or conditions to the existing or future versions of the products and services. All new features, functionalities, applications, conditions, modifications, upgrades and alterations shall be governed by this Agreement and the relevant terms of service for the products or services, unless otherwise stated by Alibaba Cloud. Any material changes to or discontinuation of such products and services will be notified to you;
+
+(b) With respect to APIs, we may change, discount, or remove any APIs for the Alibaba Cloud Services from time to time. Alibaba Cloud may, at its sole discretion, make previous versions of APIs available.
+
+(c) With respect to SLAs, we may modify the terms of any SLA by posting an amended and restated version on the Alibaba Cloud Platform. Alibaba Cloud will provide at least 15 days prior written notice of any material amendments to the SLA to you. By continuing to use the relevant products or services after the receipt of written notification of such changes by Alibaba Cloud, you agree to be bound by the amended and restated SLA.
+
+2.7 You acknowledge that the Alibaba Cloud Service is provided on an “as is”, “as available” and “with all faults” basis. Subject to any specific terms of the Alibaba Cloud Services, you hereby agree that to the maximum extent permitted by applicable law, in no event shall Alibaba Cloud be liable to you or any third parties for any inability to use the Alibaba Cloud Services (whether due to disruption, changes to or termination of the Alibaba Cloud Services or otherwise), any delays, inaccuracies, errors or omissions with respect to any communications or transmission or delivery of all or any part thereof, or any damage (direct, indirect, consequential or otherwise) arising from the use of or inability to use the Alibaba Cloud Services.
+
+2.8 You acknowledge and agree that, if any Alibaba Cloud Services involve any software applications provided by third parties, such software applications are made available to you on a pass-through basis directly by other companies or individuals under separate terms and conditions, including separate fees and charges and since Alibaba Cloud may not have tested or screened such software applications, your use of such software applications is at your own risk.
+
+2.9 Alibaba Cloud shall have the right to assign and/or novate any part of or all of the Terms (including any of our rights, titles, benefits, interests, and obligations and duties in the Terms and this Agreement) to any person or entity (including any affiliates of Alibaba Cloud). Alibaba Cloud may by written notice to you (which may be posted on the Alibaba Cloud Platform) require such novation of the Terms or any part thereof, and you hereby irrevocably agree and consent to any such novation, whereupon Alibaba Cloud shall be released and discharged from all of its obligations under these Terms, as well as all claims, actions and demands arising under these Terms up to the time of such novation. You may not assign, in whole or part, any of the Terms (including this Agreement) to any person or entity.
+
+2.10 The availability to you of any service level credits under any SLAs is conditional upon your full and timely compliance with the Terms. If in our discretion we pay to you any service level credits under any SLA, no further or other claims shall lie against us in respect of any claims or matters arising under any such SLA.
+
+**3. Member Responsibilities**
+
+3.1 You agree to (whether as part of the Account registration process or otherwise):
+
+(a) provide true, accurate, and current information about yourself, and your business, as well as information about your credit card, bank account or other forms of payment, as may be requested by Alibaba Cloud;
+
+(b) maintain and promptly amend all information provided to Alibaba Cloud to keep it true, accurate, and current;
+
+(c) provide any additional information to Alibaba Cloud in the time frame requested by Alibaba Cloud in connection with customer service, risk control, fraud prevention and compliance procedures;
+
+(d) be responsible for the development, operation, maintenance, transfer, processing, storage, and use of the content that you run on the Alibaba Cloud Services, cause to interface with the Alibaba Cloud Services, submit to or upload into the Alibaba Cloud Services under your Account (the “**Member Content**”);
+
+(e) comply with the Terms and any and all applicable laws and regulations when using the Alibaba Cloud Services;
+
+(f) take your own initiative to maintain appropriate security, protection and backup of the Member Content;
+
+(g) be responsible for your End Users (as hereafter defined) use of the Member Content and the Alibaba Cloud Services directly or indirectly through your use of the Alibaba Cloud Services and ensure that such End Users act in ways that comply with the Terms. For the purpose of this Agreement, an “**End User**” is any individual or business entity that accesses or uses the Member Content or uses the Alibaba Cloud Services directly or indirectly through you. Alibaba Cloud shall not be held responsible for any loss or damage arising from or in connection with any Member Content or any use or reliance thereon.
+
+3.2 You shall not (whether through your End Users or otherwise):
+
+(a) sell, transfer, or sublicense your Alibaba Cloud Account to others without Alibaba Cloud’s prior written consent;
+
+(b) engage in or be part of any scheme to cheat, mislead or defraud Alibaba Cloud, other members, other users of the Alibaba Cloud Platform, any other third party or for any unlawful purpose;
+
+(c) infringe or otherwise abet or encourage the infringement or violation of any third party’s Intellectual Property Rights (as defined below) or other proprietary right or rights of publicity and privacy or other rights recognized at law;
+
+(d) impersonate any person or entity, misrepresent yourself or your affiliation with any person or entity or otherwise engage in fraudulent representations or conduct;
+
+(e) violate any applicable law, statute, ordinance or regulation (including without limitation those governing export control, consumer protection, unfair competition, anti-discrimination or false advertising);
+
+(f) use the Alibaba Cloud Services for any activities related to bitcoin mining or the creation of other virtual currency or similar instruments;
+
+(g) submit or provide to Alibaba Cloud any content (including Member Content) that:
+(i) contains information that is defamatory, libelous, unlawfully threatening or unlawfully harassing;
+(ii) is obscene or contains or infers any pornography or sex-related merchandising or any other content that otherwise promotes sexually explicit materials, or is otherwise harmful to minors;
+(iii) promotes discrimination based on race, sex, religion, nationality, disability, sexual orientation or age;
+(iv) involves any computer viruses or other destructive devices and codes that have the effect of damaging, interfering with, intercepting or expropriating any software or hardware system, data or personal information; or
+(v) is otherwise objectionable on the grounds of public interest, public morality, public order, public security, national harmony or is prohibited by applicable laws;
+
+(h) undermine the integrity of the computer systems or networks used by Alibaba Cloud and/or any user of the Alibaba Cloud Services and you shall not attempt to gain unauthorized access to such computer systems or networks;
+
+(i) modify, alter, tamper with, repair, or create derivative works of any software included in the Alibaba Cloud Services (unless otherwise expressly permitted in the relevant software included in the Alibaba Cloud Services);
+
+(j) reverse engineer, disassemble, or decompile any part of the Alibaba Cloud Services;
+
+(k) access any process or procedure to derive the source code of any software in the Alibaba Cloud Services;
+
+(l) access or use the Alibaba Cloud Services in a way intended to avoid the relevant fees or charges; or
+
+(m) resell or sublicense any Alibaba Cloud Services.
+
+**4. Rights in Member Content**
+
+4.1 You retain any rights you may have in any Member Content. Alibaba Cloud will not access or use your Member Content except as necessary to maintain or provide the Alibaba Cloud Services or as necessary to comply with applicable laws or regulations. This Membership Agreement does not grant either party any rights to the other’s content or any of the other’s Intellectual Property Rights except as set forth otherwise in this Membership Agreement or other applicable agreements binding your use of Alibaba Cloud Services. As between you and Alibaba Cloud, you own all Intellectual Property Rights in Member Content, and Alibaba Cloud owns all Intellectual Property Rights in the Alibaba Cloud Services.
+
+4.2 “**Intellectual Property Rights**” shall mean:
+
+(a) all rights, title and interest in and to all intellectual property rights, including any and all copyrights, patents, trademarks, service marks, logos, get-up, trade names, internet domain names, rights in designs, rights in computer software, database rights, semi-conductor topography rights, utility models and rights in know-how, in each case whether registrable or not, and including any applications for registration, and all rights or forms of protection having equivalent or similar effect anywhere in the world, and across all platforms and mediums whether now known or in the future invented;
+
+(b) all rights under licences, consents, orders, statutes or otherwise in relation to any of the rights referenced in sub-paragraph (a) above;
+
+(c) all rights of the same or similar effect or nature as or to those in sub-paragraphs (a) and (b) which now or in the future may subsist;
+
+(d) all rights to income, royalties, damages, claims and payments now or hereafter due or payable with respect thereto; and
+
+(e) all rights at law or in equity to sue for past or future infringements of any of the foregoing rights.
+
+**5. Investigation and Enforcement**
+
+5.1 Alibaba Cloud shall have the right, to investigate any End User or your breach or violation of the Terms.
+
+5.2 Alibaba Cloud shall have the right to report any activities that Alibaba Cloud considers to be in violation of the Terms or any regulations or laws in any jurisdiction to the relevant enforcement agencies, regulators, government bodies, and any other appropriate third parties and Alibaba Cloud shall have the right to access, disclose and/or remove any content you published on or submitted to Alibaba Cloud or to the Alibaba Cloud Platform (including any Member Content) in connection therewith or to comply with applicable law, legal process or lawful government requests, or in respect of any claims or potential claims brought against Alibaba Cloud, or its shareholders, subsidiaries or affiliates.
+
+**6. Fees, Payment and Tax**
+
+6.1 Unless otherwise provided by the Product Terms of Service, the Marketplace Supplemental to this Membership Agreement, or agreed to by us in writing, any payments, fees, charges or taxes payable under this Agreement and/or the Terms shall be payable by you in accordance with the prevailing Alibaba Cloud Payment and Tax Terms. You will pay Alibaba Cloud the applicable fees for use of the relevant Alibaba Cloud Services by the payment methods that the Alibaba Cloud Platform supports.
+
+6.2 Any and all payment made by you may not be set-off or counterclaimed without the written consent of Alibaba Cloud.
+
+6.3 The fees, charges, and tax terms for the Alibaba Cloud Services as contained in the Alibaba Cloud Payment and Tax Terms may be updated from time to time on the Alibaba Cloud Platform and will take effect upon publication on the platform.
+
+**7. Purchase Credit and Product Purchases for Certain Enterprise Customers**
+
+7.1 For certain enterprise customers, subject to Alibaba Cloud’s review of a purchase credit application (the “Credit Application”) under the terms set forth in this Agreement, Alibaba Cloud may provide you a credit limit for making purchases of the Alibaba Cloud Services (the “Purchase Credit”). Upon Alibaba Cloud’s approval of your Credit Application, your Purchase Credit will be displayed in your Alibaba Cloud International Website account and you may proceed to use the Purchase Credit to purchase Alibaba Cloud Services via the Alibaba Cloud International Website.
+
+7.2 Credit Application and Approval:
+
+(a) Alibaba Cloud may request you provide any information and documents as reasonably required by Alibaba Cloud to assess your financial status and capability in order to determine the appropriate Purchase Credit limit suitable for you.
+
+(b) Alibaba Cloud shall have sole discretion to decide on whether to grant Purchase Credit to you as well as the amount of Purchase Credit. Alibaba Cloud’s determination of the Purchase Credit shall be final. The amount of Purchase Credit granted to you will be notified to you in writing or displayed in your Alibaba Cloud International Website account.
+
+7.3 Use of Credit
+
+(a) The Purchase Credit limit granted to you may be used to purchase Alibaba Cloud Services by placing an order on the Alibaba Cloud International Website subject to applicable terms and conditions.
+
+(b) Used Purchase Credit will not be restored until you have settled payment for the used Purchase Credit in accordance with the payment settlement terms of this Agreement.
+
+(c) If your Purchase Credit balance is insufficient for settling payment, Alibaba Cloud shall have the right, but not the obligation, to suspend your subscription or use of the Alibaba Cloud Product until your Purchase Credit balance is restored.
+
+7.4 Restoration and Settlement of Purchase Credit
+
+(a) Used Purchase Credit will be restored upon your payment in accordance with the terms of this Agreement.
+
+(b) Alibaba Cloud shall have sole discretion to adjust the amount Purchase Credit provided to you, including but not limited to based on our risk assessment, your transaction history and your financial status.
+
+(c) Alibaba Cloud shall have the right, but not the obligation, to carry out any of the following in the event that you fail to make timely payment in accordance with the terms of this Agreement:
+i. reduce your Purchase Credit;
+ii. cancel your Purchase Credit; or
+iii. suspend or terminate your subscription or use of the Alibaba Cloud Services purchased.
+
+7.5 Any Purchase Credit granted to you may be used until the expiry or termination of this Agreement. Notwithstanding any of the foregoing, your Purchase Credit will expire/cease to be available for use upon the occurrence of any of the following:
+
+(a) you apply for cancellation of its Purchase Credit limit and Alibaba Cloud approves the application;
+
+(b) you provide any inaccurate or misleading information to Alibaba Cloud, fail to provide any requested information, or otherwise breach the terms of this Agreement;
+
+(c) Alibaba Cloud believes that you are or may be unable to fulfill your payment obligations under this Agreement; or
+
+(d) Alibaba Cloud reasonably believes that you have engaged in any unlawful activities.
+
+7.6 Unless otherwise provided in this Agreement, Alibaba Cloud has the right to cancel your Purchase Credit limit at any time by providing a prior written notice to you.
+
+**8. Term, Account Termination or Suspension, Effects of Termination**
+
+8.1 This Agreement is effective as of the date on which Alibaba Cloud sends you a notice under this Agreement stating that you have successfully activated your Account.
+
+8.2 Without prejudice and in addition to its rights and remedies at law or equity (including without limitation as set out in the Alibaba Cloud Payment and Tax Terms), Alibaba Cloud may suspend or terminate your Account, or limit or restrict your rights to your Account, immediately upon notice to you if, in the sole opinion of Alibaba Cloud, you or your End Users have engaged in any of the following:
+
+(a) breached the Terms;
+
+(b) used the Alibaba Cloud Services in a way that poses a security or system stability risk to the Alibaba Cloud Platform or any third party;
+
+(c) used the Alibaba Cloud Services in a way that subjects, or will subject, Alibaba Cloud or its affiliates to liability;
+
+(d) engaged in any fraudulent, deceptive or unlawful act; or
+
+(e) become the subject of any bankruptcy, reorganization, liquidation, dissolution or similar proceedings.
+
+8.3 If Alibaba Cloud suspends your right to use your Account or any of the Alibaba Cloud Services, you shall remain responsible for any and all fees and charges for the Alibaba Cloud Services that you have incurred up to the date of service suspension. You will not be entitled to any service credits under any SLA during the period of service suspension. You shall be responsible for the fees and charges for the Alibaba Cloud Services that you continue to have access or rights to use.
+
+8.4 Your rights under any license granted to you by Alibaba Cloud pursuant to your use of the Alibaba Cloud Services will terminate immediately upon the termination of your service or Account.
+
+8.5 In the event of the termination of this Agreement for any reason whatsoever:
+
+(a) you shall delete any information, text, images, graphics, video clips, sound, directories, files, databases or listings, etc. in your possession which has been made available to you via the Alibaba Cloud Services;
+
+(b) you will lose access to any Member Content you have provided to Alibaba Cloud, and Alibaba Cloud will delete such Member Content at Alibaba Cloud’s sole discretion unless retention is required under applicable law;
+
+(c) the licence granted by you to Alibaba Cloud to use your Member Content described in Clause 4.1 shall continue notwithstanding such suspension or termination; and
+
+(d) any clause which by reasonable implication is intended to survive termination of this Agreement shall survive the expiry or termination of this Agreement. Without limiting the generality of the foregoing, Clauses 2.9, 4, 5, 8, 9, 10, 11 and 13 shall survive any termination of this Agreement.
+
+**9. Representations and Warranties**
+
+9.1 You represent and warrant that:
+
+(a) You, your End Users or your licensors own any and all right, title, and interests in and to the Member Content;
+
+(b) You have all rights in the Member Content necessary for granting Alibaba Cloud the rights under this Agreement;
+
+(c) None of your Member Content will violate the Terms or any applicable laws or rights of other third parties (including any Intellectual Property Rights);
+
+(d) You have the right to enter into contracts for the Terms;
+
+(e) You have the right to operate your Account with the Alibaba Cloud Platform; and
+
+(f) You have the right to use, purchase or subscribe to any of the Alibaba Cloud Services.
+
+**10. Indemnification**
+
+You will defend, indemnify, and hold harmless Alibaba Cloud, its affiliates, licensors, and each of their respective employees, officers, directors, and representatives from and against any claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys’ fees) arising out of or in connection with any third party claim concerning your and/or your End Users:
+
+(a) use of the Alibaba Cloud Services;
+
+(b) breach of the Terms;
+
+(c) breach of any applicable laws;
+
+(d) alleged infringement (including infringement of any Intellectual Property Rights) or misappropriation of third party rights in respect of any Member Content or by the use, development, design, production advertising or marketing of the Member Content; and/or
+
+(e) disputes against each other.
+
+Alibaba Cloud will promptly notify you of any claim subject to the above, but Alibaba Cloud’s failure to notify you will only affect your obligations above to the extent that our failure prejudices your ability to defend the claim. Alibaba Cloud reserves the right to assume control of the defense and settlement of the claim at any time.
+
+**11. Disclaimers and Limitation of Liability**
+
+11.1 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE ALIBABA CLOUD SERVICES ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, AND ALIBABA CLOUD HEREBY EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF CONDITION, QUALITY, DURABILITY, PERFORMANCE, ACCURACY, RELIABILITY, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, OR AS TO THE ALIBABA CLOUD SERVICES BEING UNINTERRUPTED, ERROR FREE, FREE OF HARMFUL COMPONENTS, SECURE, OR NOT OTHERWISE CAUSING DAMAGE OR LOSS OF FUNCTIONALITY OR DATA.
+
+11.2 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ALIBABA CLOUD MAKES NO REPRESENTATIONS OR WARRANTIES ABOUT THE VALIDITY, ACCURACY, RELIABILITY, QUALITY, STABILITY, COMPLETENESS OR CURRENTNESS OF ANY INFORMATION PROVIDED ON OR THROUGH THE ALIBABA CLOUD PLATFORM.
+
+11.3 The Alibaba Cloud Platform may make available to you services or products provided by independent third parties on a pass-through basis. No warranty or representation is made with regard to such services or products. In no event shall Alibaba Cloud and its affiliates be held liable for any such services or products.
+
+11.4 Alibaba Cloud shall not be liable for any special, direct, indirect, punitive, incidental or consequential damages or any damages whatsoever (including but not limited to damages for loss of profits or savings, business interruption, loss of information), whether in contract, negligence, tort or otherwise or any other damages resulting from any of the following:
+
+(a) the use or the inability to use the Alibaba Cloud Services;
+
+(b) any defect in goods, samples, data, information or services purchased or obtained from a third-party service provider through the Alibaba Cloud Platform;
+
+(c) unauthorized access by third parties to data or private information of you;
+
+(d) statements or conduct of any user of the Alibaba Cloud Platform; or
+
+(e) any other matter relating to the Alibaba Cloud Services however arising, including negligence.
+
+11.5 Save only for any warranties, representations, conditions and undertakings by Alibaba Cloud expressly set forth in this Agreement, Alibaba Cloud hereby excludes all other warranties, representations, conditions and undertakings, express or implied, to the maximum extent permitted under applicable law.
+
+Notwithstanding anything in this Agreement except this Clause 11.5, the aggregate liability of Alibaba Cloud, its employees, agents, affiliates, representatives or anyone acting on its behalf with respect to you for any and all claims arising from or in connection with Alibaba Cloud Services or the Alibaba Cloud Platform or the use or inability to use the same shall, if not otherwise excluded or limited, be limited to, in aggregate, the greater of (a) the amount of fees you have paid to Alibaba Cloud or its affiliates for the Alibaba Cloud Services during the calendar year, or (b) USD100 or (c) the amount prescribed by the terms of relevant SLAs in connection with your use of specific Alibaba Cloud Services. The preceding sentence shall not preclude the requirement by you to prove actual damages. All claims against Alibaba Cloud in respect of any of the matters referenced in this Clause 11.5 must be filed within one (1) year from the date the cause of action arose.
+
+**12. Notice**
+
+12.1 We may provide notice to you under this Agreement by posting a notice on the Alibaba Cloud Platform or emailing it to your Account. Notices will be deemed to be effective upon posting and notice by email will be deemed effective by the time the email is sent.
+
+12.2 You must provide notice to us by personal delivery, overnight courier, or registered mail to Alibaba Cloud (Singapore) Private Limited /Alibaba.com (Europe) Limited/ Alibaba Cloud US LLC to 26/F, Tower One, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong. Notice by overnight courier or registered mail will be deemed effective one business day after being sent. Notice provided by personal delivery will be effective immediately upon successful receipt by us.
+
+**13. General**
+
+13.1 This Agreement and the Terms constitute the entire agreement between you and Alibaba Cloud with respect to and governs the use of the Alibaba Cloud Services, superseding any prior written or oral agreements in relation to the same subject matter herein.
+
+13.2 You and Alibaba Cloud are independent contractors, and no agency, partnership, joint venture, employee-employer or franchiser-franchisee relationship is intended or created by this Agreement.
+
+13.3 If any term herein is adjudicated by a court or tribunal of competent jurisdiction to be void or unenforceable, the validity or enforceability of the remainder of the terms herein shall remain in full force and effect.
+
+13.4 Alibaba Cloud’s failure to enforce any right or failure to act with respect to any breach by you under this Agreement will not waive that right nor waive Alibaba Cloud’s right to act with respect with subsequent or similar breaches.
+
+13.5 Unless a right or remedy of you or Alibaba Cloud is expressed to be an exclusive right or remedy, the exercise of it by either party is without prejudice to either party’s other rights and remedies at law and/or in equity.
+
+13.6 You shall do and execute or procure to be done and executed all such further acts, deeds, things and documents as may be necessary to give effect to the terms of this Agreement.
+
+13.7 Save for Alibaba Cloud and its affiliates, a person who is not a party to this Agreement has no right under the Contracts (Rights of Third Parties) Act (Cap. 53 B) (Rev Ed 2002) to enforce any term of this Agreement.
+
+13.8 Unless otherwise provided in the terms and conditions of the relevant Alibaba Cloud Services, under no circumstances shall Alibaba Cloud be held liable for any delay or failure or disruption of the content or services delivered through the Alibaba Cloud Platform (including the Alibaba Cloud Services) resulting directly or indirectly from acts of nature, forces or causes beyond our reasonable control, including without limitation, Internet failures, computer failures, computer viruses, cyber-attacks, telecommunications or any other equipment failures, electrical power failures, strikes, labor disputes, riots, insurrections, civil disturbances, shortages of labor or materials, fires, flood, storms, explosions, acts of God, war, governmental actions, orders of domestic or foreign courts or tribunals or non-performance of third parties.
+
+13.9 This Agreement shall be governed by the laws of Singapore without regard to its conflict of law provisions. The parties to the Terms hereby submit to the exclusive jurisdiction of the courts of Singapore.
+
+------
+
+#### GDPR Addendum to Alibaba Cloud Membership Agreement
+
+**Terms applicable to users if and to the extent that Regulation (EU) 2016/679 (GDPR) applies to the user’s processing of personal data using any of the Alibaba Cloud Services.**
+
+In this Agreement, “Data Protection Legislation” means the GDPR and/or any related national laws, legislation, rules or regulations, related to privacy and data protection (including legislation made under or in relation to any of them), in each case as amended, modified, extended, re-enacted, consolidated or replaced from time to time.In addition to, or in place of, the relevant terms of the Membership Agreement above, the [GDPR Addendum](https://www.alibabacloud.com/help/faq-detail/72443.htm) will apply, on and from 25 May 2018, if required by Data Protection Legislation, but only to the extent that, in providing any Alibaba Cloud Services to you, Alibaba Cloud processes as a processor personal data contained in or generated in relation to your Member Content
+
+The Addendum forms part of the Membership Agreement above and any definitions used in that Agreement shall have the same meaning in this Addendum
+
+Notwithstanding anything else in this Agreement, if there is any conflict or inconsistency between the Addendum and any terms in the Agreement (including the Alibaba Cloud Payment and Tax Terms) and/or the Terms, this Addendum shall prevail, but only to the extent of the conflict or inconsistency.
+
+------
+
+#### Europe Addendum to Alibaba Cloud Membership Agreement
+
+**Terms applicable only to users contracting with Alibaba.com (Europe) Limited; this Addendum does not apply to users contracting with Alibaba Cloud (Singapore) Private Limited or Alibaba Cloud US LLC**
+
+In addition to, or in place of, the relevant terms of the Membership Agreement above, the following additional terms (the “**Addendum**”) are applicable in respect of any customer: (a) who creates a membership account with the Alibaba Cloud Platform; and (b) who is contracting with Alibaba.com (Europe) Limited for such Account. The Addendum forms part of the Membership Agreement above and any definitions used in that Agreement shall have the same meaning in this Addendum. Notwithstanding anything else in this Agreement, if there is any conflict or inconsistency between the Addendum and any terms in the Agreement (including the Alibaba Cloud Payment and Tax Terms) and/or the Terms, the Addendum shall prevail only to the extent of the conflict or inconsistency.
+
+1. For the purposes of the introductory paragraph of this Agreement and Clause 2.1, the applicable Alibaba Cloud contracting entity is Alibaba.com (Europe) Limited, a company registered in England with company number 06721521 and with its registered office at 3rd Floor, Davidson Building, 5 Southampton Street, London, England, WC2E 7HA, United Kingdom. Any reference to Alibaba Cloud in this Agreement shall be a reference to Alibaba.com (Europe) Limited. For the purposes of this Agreement, notices for Alibaba Cloud shall be sent to the address set out in the preceding sentence of this Addendum, not the address set out in Clause 12.2. The other provisions of Clause12 shall apply to such notice.
+2. The GDPR Addendum above shall apply in the circumstances and to the extent stated above.
+3. The following shall be added to the Agreement as a new Clause 9.1(g): You will use the Alibaba Cloud Services and Alibaba Cloud Platform only for commercial, business or enterprise purposes in the course of your trade or profession, not personal consumer use.
+4. The restrictions in Clauses 10 and 11 of this Agreement shall apply to the fullest extent permitted by applicable law.
+5. Nothing in this Agreement shall be construed as excluding or limiting the liability of you or Alibaba Cloud or any of our respective officers, employees and agents for any liability which cannot be limited or excluded by law.
+6. The reference in Clause 13.7 of this Agreement to the Contracts (Rights of Third Parties) Act (Cap. 53 B) (Rev Ed 2002) shall be replaced by the English Contracts (Rights of Third Parties) Act 1999.
+7. Clause 13.9 shall be replaced by the following: This Agreement and any dispute or claim arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the law of England and Wales. Each party to this Agreement irrevocably agrees that the courts of England and Wales shall have exclusive jurisdiction to settle any dispute or claim arising out of or in connection with this Agreement or its subject matter or formation (including non-contractual disputes or claims).
+
+------
+
+#### Australia Addendum to Alibaba Cloud Membership Agreement
+
+**Terms applicable only to users who are located in Australia and contracting with Alibaba Cloud (Singapore) Private Limited. This Addendum does not apply to users contracting with Alibaba.com (Europe) Limited or Alibaba Cloud US LLC, or to users who contract with Alibaba Cloud (Singapore) Private Limited but are not located in Australia.**
+
+In addition to, or in place of, the relevant terms of the Membership Agreement above, the following additional terms (the “**Addendum**”) are applicable in respect of any customer: (a) who creates a membership account with the Alibaba Cloud Platform from Australia; and (b) who is contracting with Alibaba Cloud (Singapore) Private Limited for such Account. The Addendum forms part of the Membership Agreement above and any definitions used in that Agreement shall have the same meaning in this Addendum. Notwithstanding anything else in this Agreement, if there is any conflict or inconsistency between the Addendum and any terms in the Agreement (including the Alibaba Cloud Payment and Tax Terms) and/or the Terms, the Addendum shall prevail only to the extent of the conflict or inconsistency.
+
+1. Clause 10 shall be replaced by the following: Indemnification. You will defend, indemnify, and hold harmless Alibaba Cloud, its affiliates, licensors, and each of their respective employees, officers, directors, and representatives from and against any claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys’ fees) arising out of or in connection with any third party claims concerning your and/or your End Users: (a) use of the Alibaba Cloud Services; (b) breach of the Terms; (c) breach of any applicable laws; (d) alleged infringement (including infringement of any Intellectual Property Rights) or misappropriation of third party rights in respect of any Member Content or by the use, development, design, production advertising or marketing of the Member Content; and/or (e) disputes against each other, to the extent that Alibaba Cloud, its affiliates, licensors, and each of their respective employees, officers, directors, and representatives has not contributed to any third party claim. Alibaba Cloud will promptly notify you of any claim subject to the above, but Alibaba Cloud’s failure to notify you will only affect your obligations above to the extent that our failure prejudices your ability to defend the claim. Alibaba Cloud reserves the right to assume control of the defense and settlement of the claim at any time.
+2. Clause 11.4 shall be replaced by the following: Exclusions of liability. With the exception of Consumer Guarantees, Alibaba Cloud excludes: (a) any term, condition or warranty that may otherwise be implied into this agreement; (b) any liability for loss or damage incurred as a result of or in connection with the negligence of Alibaba Cloud; and (c) any liability for Consequential Loss.
+3. Clauses 11.5 shall be replaced by the following: General limitations of liability. Alibaba Cloud and you agree that, other than a claim pursuant to a Consumer Guarantee: Alibaba’s liability for Claims shall be limited to the greater of: (a) the amount of fees you have paid to Alibaba Cloud or its affiliates for the Services during the calendar year before the Claim was made; (b) USD100; or (c) the amount prescribed by the terms of relevant service level agreements in connection with your use of specific Services. All claims against Alibaba Cloud in respect of any of the matters referenced in this Clause 11.5 must be filed within one (1) year from the date of the Claim.
+4. The following clauses shall be added:11.6 Liability for Consumer Guarantees. Subject to Clause 11.7, the liability of Alibaba Cloud in respect of any breach of or failure to comply with any Consumer Guarantee is limited to the following: In the case of goods, to: (i) the replacement of the goods or the supply of equivalent goods; (ii) the repair of the goods; (ii) the payment of the cost of replacing the goods or of acquiring equivalent goods; or (iv) the payment of the cost of having the goods repaired. In the case of services, to: (i) the supplying of the services again; or (ii) the payment of the cost of having the services supplied again.11.7 Exception to limitation. The liability of Alibaba Cloud in respect of a breach of or a failure to comply with a Consumer Guarantee will not be limited in the way set out in Clause 11.6 if: the goods or services supplied are goods or services ‘of a kind ordinarily acquired for personal, domestic or household use or consumption’, as that expression is used in section 64A of the Australian Consumer Law; it is not ‘fair or reasonable’ for Alibaba Cloud to rely on such limitation in accordance with section 64A(3) of the Australian Consumer Law; or the relevant Consumer Guarantee is a guarantee pursuant to sections 51, 52 or 53 of the Australian Consumer Law.11.8 The limitations and exclusions of liability under the Terms shall apply to the maximum extent permitted by law and shall apply whether or not Alibaba Cloud has been advised of or should have been aware of the possibility of any such losses arising.
+5. For the purposes of this Addendum: “Australian Consumer Law” shall mean schedule 2 of the Competition and Consumer Act 2010 (Cth) and any equivalent state or territory legislation. “Claim” shall mean any claim, liability, cost, expense, loss or damage suffered or incurred by you, however arising (including, without limitation, from or by the negligence of the Alibaba Cloud) in connection with this agreement. “Consumer Guarantee” shall mean a right or guarantee you may have under the Australian Consumer Law or other rights in relation to the supply of goods or services (such as terms implied into a contract) that cannot lawfully be excluded.
+6. Where this agreement is deemed a small business contract for the purposes of the unfair contract terms under the Australian Consumer Law, Clause 13.9 shall be replaced by the following: This Agreement and any dispute or claim arising out of or in connection with them or their subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the law of New South Wales and Australia. Each party to these Product Terms agrees that the courts of New South Wales shall have non-exclusive jurisdiction to settle any dispute or claim arising out of or in connection with these Product Terms or their subject matter or formation (including non-contractual disputes or claims).
+
+**ALIBABA CLOUD INTERNATIONAL MARKETPLACE PLATFORM SUPPLEMENTAL TO THE MEMBERSHIP AGREEMENT (THE “MARKETPLACE SUPPLEMENTAL”)**
+
+This Marketplace Supplemental describe the terms and conditions applicable to your access and use of the International Marketplace. In addition to the relevant terms of the Membership Agreement above, the following additional terms are applicable if you access or use the International Marketplace. This Marketplace Supplemental forms part of the Membership Agreement above and any definitions used in the Membership Agreement shall have the same meaning in this Marketplace Supplemental. Notwithstanding anything else in the Membership Agreement, if there is any conflict or inconsistency between the terms of the Membership Agreement and the Marketplace Supplemental, the Marketplace Supplemental shall prevail only to the extent of the conflict or inconsistency.
+
+1.The International Marketplace
+
+(a) The International Marketplace is an electronic platform for software (the “Marketplace Products”) to be listed and sold to users of the International Marketplace. The Marketplace Products may be sold by independent software vendors (the “Third Party Vendors”) or Alibaba Cloud. For the avoidance of doubt, the Marketplace Products are not part of and do not constitute Alibaba Cloud Services or Alibaba Cloud Offerings.
+
+(b) When you purchase Marketplace Products, you may be subject to and required to agree to separate terms and conditions and privacy policies for the use of such Marketplace Products.
+
+(c) Alibaba Cloud reserves the right to suspend and/or terminate the International Marketplace without prior written notice. Alibaba Cloud is also entitled to suspend, terminate and/or remove from the International Marketplace any Marketplace Product, if it determines that such Marketplace Product is not in compliance with applicable laws and regulations, the Terms, or any other terms and conditions applicable to the use of the International Marketplace.
+
+2.Marketplace Products
+
+2.1 Marketplace Products sold by Alibaba Cloud
+
+You acknowledge and agree that if any Marketplace Product sold by Alibaba Cloud is provided by third parties, your use of such Marketplace Product is at your own risk.
+
+2.2 Marketplace Products offered by Third Party Vendors
+
+(a) You acknowledge and agree that:
+(i) Alibaba Cloud does not represent either the seller or the buyer in the sale and purchase of the Marketplace Products offered by Third Party Vendors, and cannot control and is not liable to or responsible for the condition, quality, durability, performance, accuracy, reliability, merchantability or fitness for a particular purpose, and non-infringement of such Marketplace Products, or the ability of the buyer and seller to complete the sale and purchase of the Marketplace Products; and
+(ii) you are fully assuming the risk of purchasing and using such Marketplace Products offered by Third Party Vendors.
+
+2.3 In the event a dispute arises between you and a Third Party Vendor in relation to a Marketplace Product, and if such dispute is not resolved through amicable negotiation, you agree to submit the dispute to Alibaba Cloud for determination. You and the Third Party Vendor agree that Alibaba Cloud’s determination shall be final and binding. Alibaba Cloud may conduct the proceedings in such manner as it considers appropriate. At any time during the proceedings Alibaba Cloud may require parties to produce documents, exhibits or other evidence within such period of time as Alibaba Cloud shall determine. Alibaba Cloud shall determine the admissibility, relevance, materiality and weight of the evidence offered.
+
+2.4 To the maximum extent permitted under applicable law, Alibaba Cloud hereby expressly disclaims any and all warranties, express or implied, including but not limited to, any warranties of condition, quality, durability, performance, accuracy, reliability, merchantability or fitness for a particular purpose, and non-infringement, or as to the Marketplace Product being uninterrupted, error free, free of harmful components, secure, or not otherwise causing damage or loss of functionality or data.
+
+2.5 To the maximum extent permitted under applicable law, Alibaba Cloud makes no representations or warranties on the validity, accuracy, correctness, reliability, quality, stability, completeness or currency of any information provided on or through the Marketplace Products; Alibaba Cloud does not represent or warrant that the manufacture, importation, export, distribution, offer, display, purchase, sale and/or use of products or services offered or displayed via such Marketplace Products does not violate any third party rights; and Alibaba Cloud makes no representations or warranties of any kind concerning any product or service offered or displayed on the via the Marketplace Products.
+
+2.6 You hereby agree to indemnify and hold Alibaba Cloud, its respective affiliates, directors, officers and employees harmless from and against any and all losses, claims, liabilities which may arise from your use of the Marketplace Products.
+
+To the maximum extent permitted under applicable law, Alibaba Cloud shall not be liable for any special, direct, indirect, punitive, incidental or consequential damages or any damages whatsoever (including but not limited to damages for loss of profits or savings, business interruption, loss of information), whether in contract, negligence, tort, equity or otherwise or any other damages resulting from your use of a Marketplace Product.
