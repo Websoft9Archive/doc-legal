@@ -2,7 +2,7 @@
 
  End User Licence Agreement (“EULA”)  for Websoft9 Inc. (“Websoft9”, “we”, “our” and “us”) Image products and services (“Product” or “Image”) are a legal agreement between you, either as an individual or a legal entity (“Customer”), and Websoft9.
 
-These Agreement, along with any other policies or documents referenced herein, govern Customer’s purchase and use of the Products. Customer’s use of the Products constitutes its binding legal agreement to these Terms, which are subject to change at any time by Barracuda.
+These Agreement, along with any other policies or documents referenced herein, govern Customer’s purchase and use of the Products. Customer’s use of the Products constitutes its binding legal agreement to these Terms, which are subject to change at any time by Websoft9.
 
 If Customer is not legally able to be bound by these Agreement or does not want to consent to these Agreement, Customer’s use of the Images is strictly prohibited.
 
@@ -10,7 +10,7 @@ Websoft9 reserves the right at any time to modify these Terms in its sole discre
 
 #### Use of Websoft9 Image
 
-Websof9’s Image is built on open source software. We try to use the latest version of open source software to reduce the security risks, But we will not modify the source code of Software to ensure the nativeness of the open source software. Therefore, there is no guarantee that the open source software does not have loopholes or the security risks, The security risks arising from the use of open source software are the responsibility of the user!
+Websof9’s Image is built on open source software. We try to use the latest version of open source software to reduce the security risks, But we will not modify the source code of Software to ensure the nativeness of the open source software. Therefore, there is no guarantee that the open source software does not have loopholes or the security risks. The security risks arising from the use of open source software are the responsibility of the user!
 
 Your copy of a Websoft9’s Image and accompanying documentation is licensed and not sold. This Software Product is protected by copyright laws and treaties, as well as laws and treaties related to other forms of intellectual property. Websoft9 or its subsidiaries, affiliates, and suppliers (collectively “the company”) own intellectual property rights in the Software Product. The Licensee’s (“you” or “your”) license to download, use, copy, or change the Software Product is subject to these rights and to all the terms and conditions of this End User License Agreement (“Agreement”).
 
