@@ -6,7 +6,7 @@ These Agreement, along with any other policies or documents referenced herein, g
 
 If Customer is not legally able to be bound by these Agreement or does not want to consent to these Agreement, Customer’s use of the Images is strictly prohibited.
 
-Websoft9 reserves the right at any time to modify these Terms in its sole discretion, without liability to Customer. This Agreement, as amended, will be effective upon use of the Images for all existing users immediately after any amended terms are posted online at https://en.websoft9.com/legal/eula. Customer agrees to be bound by this Agreement, as modified. If Customer does not agree to any changes to the Terms, it must stop using the Images and terminate its account immediately. It is incumbent upon Customer to check for any amendments to these Terms and review the most current version of this Agreement from time to time so that it will be apprised of any changes.
+Websoft9 reserves the right at any time to modify these Terms in its sole discretion, without liability to Customer. This Agreement, as amended, will be effective upon use of the Images for all existing users immediately after any amended terms are posted online at https://support.websoft9.com/docs/legal/eula.html. Customer agrees to be bound by this Agreement, as modified. If Customer does not agree to any changes to the Terms, it must stop using the Images and terminate its account immediately. It is incumbent upon Customer to check for any amendments to these Terms and review the most current version of this Agreement from time to time so that it will be apprised of any changes.
 
 #### Use of Websoft9 Image
 
