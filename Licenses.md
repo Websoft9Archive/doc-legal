@@ -1,18 +1,18 @@
 #### Apache
-- GPL
-- https://gitea.com/goftp/ftpd
+- Apache-2.0
+- https://www.apache.org/licenses/LICENSE-2.0
 
 #### Apache ActiveMQ
-- GPL
-- https://gitea.com/goftp/ftpd
+- Apache-2.0
+- https://www.apache.org/licenses/LICENSE-2.0
 
 #### akeneo
-- GPL
-- https://gitea.com/goftp/ftpd
+- OSL V3
+- https://opensource.org/licenses/OSL-3.0
 
 #### alfresco
-- GPL
-- https://gitea.com/goftp/ftpd
+- Apache-2.0
+- https://github.com/Alfresco/acs-community-packaging/blob/develop/LICENSE
 
 #### AWX- Ansible Tower Community Edition
 - GPL
@@ -75,8 +75,8 @@
 - https://gitea.com/goftp/ftpd
 
 #### Apache Kafka
-- GPL
-- https://gitea.com/goftp/ftpd
+- Apache-2.0
+- https://www.apache.org/licenses/LICENSE-2.0
 
 #### Knowage Community Edition
 - GPL
@@ -218,9 +218,9 @@
 - GPL
 - https://gitea.com/goftp/ftpd
 
-#### Apache RocketMQ
-- GPL
-- https://gitea.com/goftp/ftpd
+#### Apache Rocket.MQ
+- Apache-2.0
+- https://www.apache.org/licenses/LICENSE-2.0
 
 #### sakai
 - GPL
@@ -263,8 +263,8 @@
 - https://gitea.com/goftp/ftpd
 
 #### Apache Superset
-- GPL
-- https://gitea.com/goftp/ftpd
+- Apache-2.0
+- https://www.apache.org/licenses/LICENSE-2.0
 
 #### tensorflow
 - GPL
