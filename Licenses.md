@@ -15,40 +15,40 @@
 - https://github.com/Alfresco/acs-community-packaging/blob/develop/LICENSE
 
 #### AWX- Ansible Tower Community Edition
-- GPL
-- https://gitea.com/goftp/ftpd
+- Apache License 2.0
+- https://github.com/ansible/awx/blob/devel/LICENSE.md
 
 #### bt
-- GPL
-- https://gitea.com/goftp/ftpd
+- 宝塔开源许可协议
+- https://github.com/aaPanel/BaoTa/blob/master/license.txt
 
 #### Coder
-- GPL
-- https://gitea.com/goftp/ftpd
+- MIT License
+- https://github.com/cdr/code-server/blob/master/LICENSE
 
 #### Countly
-- GPL
-- https://gitea.com/goftp/ftpd
+- AGPL v3 with modified Section 7
+- https://github.com/Countly/countly-server/blob/master/LICENSE
 
 #### Discourse
-- GPL
-- https://gitea.com/goftp/ftpd
+- GPL v2
+- https://github.com/discourse/discourse/blob/master/LICENSE.txt
 
 #### drupal
-- GPL
-- https://gitea.com/goftp/ftpd
+- GPL v2
+- https://github.com/drupal/drupal/blob/8.8.x/core/LICENSE.txt
 
 #### ERPNext
-- GPL
-- https://gitea.com/goftp/ftpd
+- GPL v3
+- https://github.com/frappe/erpnext/blob/develop/license.txt
 
 #### Ghost
-- GPL
-- https://gitea.com/goftp/ftpd
+- MIT License
+- https://github.com/TryGhost/Ghost/blob/master/LICENSE
 
 #### Gitlab-CE
-- GPL
-- https://gitea.com/goftp/ftpd
+- MIT license
+- https://docs.gitlab.com/ce/development/licensing.html
 
 #### Gogs
 - GPL
