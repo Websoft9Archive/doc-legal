@@ -48,15 +48,16 @@
 
 #### Gitlab-CE
 - MIT license
+- https://gitlab.com/gitlab-org/gitlab-foss/blob/master/LICENSE
 - https://docs.gitlab.com/ce/development/licensing.html
 
 #### Gogs
-- GPL
-- https://gitea.com/goftp/ftpd
+- MIT License
+- https://github.com/gogs/gogs/blob/master/LICENSE
 
 #### Grafana
-- GPL
-- https://gitea.com/goftp/ftpd
+- Apache License 2.0
+- https://github.com/grafana/grafana/blob/master/LICENSE
 
 #### Graylog
 - GPL
