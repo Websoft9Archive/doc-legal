@@ -22,6 +22,10 @@
 - 宝塔开源许可协议
 - https://github.com/aaPanel/BaoTa/blob/master/license.txt
 
+#### CentOS
+- GPL v2
+- https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
 #### Coder
 - MIT License
 - https://github.com/cdr/code-server/blob/master/LICENSE
@@ -60,32 +64,32 @@
 - https://github.com/grafana/grafana/blob/master/LICENSE
 
 #### Graylog
-- GPL
-- https://gitea.com/goftp/ftpd
+- GPL v3
+- https://www.gnu.org/licenses/gpl-3.0.en.html
 
-#### Java on Tomcat
-- GPL
-- https://gitea.com/goftp/ftpd
+#### Java
+- GPL v2
+- http://openjdk.java.net/legal/gplv2+ce.html
 
 #### Jenkins
-- GPL
-- https://gitea.com/goftp/ftpd
+- MIT
+- https://github.com/jenkinsci/jenkins/blob/master/LICENSE.txt
 
 #### Joomla
-- GPL
-- https://gitea.com/goftp/ftpd
+- GPL v2
+- https://github.com/joomla/joomla-cms/blob/staging/LICENSE.txt
 
 #### Apache Kafka
 - Apache-2.0
 - https://www.apache.org/licenses/LICENSE-2.0
 
 #### Knowage Community Edition
-- GPL
-- https://gitea.com/goftp/ftpd
+- AGPL-3.0
+- https://github.com/KnowageLabs/Knowage-Server/blob/master/LICENSE
 
 #### KodCloud
-- GPL
-- https://gitea.com/goftp/ftpd
+- GPL v3
+- https://www.gnu.org/licenses/gpl-3.0.en.html
 
 #### LAMP
 - GPL
@@ -132,8 +136,8 @@
 - https://gitea.com/goftp/ftpd
 
 #### MySQL
-- GPL
-- https://gitea.com/goftp/ftpd
+- GPL v2
+- https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
 #### neo4j
 - GPL
@@ -144,8 +148,8 @@
 - https://gitea.com/goftp/ftpd
 
 #### nginx
-- GPL
-- https://gitea.com/goftp/ftpd
+- 2-clause BSD-like license
+- http://nginx.org/LICENSE
 
 #### Node.js
 - GPL
@@ -184,8 +188,8 @@
 - https://gitea.com/goftp/ftpd
 
 #### PHP
-- GPL
-- https://gitea.com/goftp/ftpd
+- PHP License v3.01
+- https://www.php.net/license/index.php
 
 #### pimcore
 - GPL
@@ -278,6 +282,10 @@
 #### Trac
 - GPL
 - https://gitea.com/goftp/ftpd
+
+#### Apache Tomcat
+- Apache-2.0
+- http://www.apache.org/licenses/LICENSE-2.0
 
 #### Vtiger CRM
 - GPL
