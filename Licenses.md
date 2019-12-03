@@ -112,60 +112,60 @@
 - https://mariadb.com/kb/en/library/mariadb-license/
 
 #### Mattermost
-- GPL
-- https://gitea.com/goftp/ftpd
+- AGPL v3.0
+- https://github.com/mattermost/mattermost-server/blob/master/LICENSE.txt
 
 #### Mediawiki
-- GPL
-- https://gitea.com/goftp/ftpd
+- GPL v2
+- https://github.com/wikimedia/mediawiki/blob/master/COPYING
 
 #### memcached
-- GPL
-- https://gitea.com/goftp/ftpd
+- Revised BSD license
+- https://github.com/memcached/memcached/blob/master/LICENSE
 
 #### Metabase
-- GPL
-- https://gitea.com/goftp/ftpd
+- AGPL v3
+- https://github.com/metabase/metabase/blob/master/LICENSE.txt
 
 #### MongoDB Community
-- GPL
-- https://gitea.com/goftp/ftpd
+- SSPL
+- https://github.com/mongodb/mongo/blob/master/LICENSE-Community.txt
 
 #### moodle
-- GPL
-- https://gitea.com/goftp/ftpd
+- GPL v3
+- https://github.com/moodle/moodle/blob/master/COPYING.txt
 
 #### MySQL
 - GPL v2
 - https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
 #### neo4j
-- GPL
-- https://gitea.com/goftp/ftpd
+- GPL v3
+- https://www.gnu.org/licenses/quick-guide-gplv3.html
 
 #### nextcloud
-- GPL
-- https://gitea.com/goftp/ftpd
+- AGPL v3
+- https://github.com/nextcloud/server/blob/master/COPYING
 
 #### nginx
 - 2-clause BSD-like license
 - http://nginx.org/LICENSE
 
 #### Node.js
-- GPL
-- https://gitea.com/goftp/ftpd
+- 
+- https://github.com/nodejs/node/blob/master/LICENSE
 
 #### Odoo Community Edition
-- GPL
-- https://gitea.com/goftp/ftpd
+- LGPL v3
+- https://github.com/odoo/odoo/blob/13.0/LICENSE
 
 #### onlyoffice document server
-- GPL
-- https://gitea.com/goftp/ftpd
+- AGPL v3
+- https://github.com/ONLYOFFICE/DocumentServer/blob/master/LICENSE.txt
 
 #### OpenCart
-- GPL
-- https://gitea.com/goftp/ftpd
+- GPL v3
+- https://github.com/opencart/opencart/blob/master/license.txt
 
 #### oracledb
 - GPL
