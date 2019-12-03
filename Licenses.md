@@ -210,28 +210,28 @@
 - https://opensource.org/licenses/BSD-3-Clause
 
 #### Redmine
-- GPL
-- https://gitea.com/goftp/ftpd
+- GPL v2
+- https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
 #### reportserver
-- GPL
-- https://gitea.com/goftp/ftpd
+- AGPL
+- https://reportserver.net/en/agpl-license/
 
 #### Rocket.Chat
-- GPL
-- https://gitea.com/goftp/ftpd
+- MIT
+- https://github.com/RocketChat/Rocket.Chat/blob/develop/LICENSE
 
 #### Apache Rocket.MQ
 - Apache-2.0
-- https://www.apache.org/licenses/LICENSE-2.0
+- https://github.com/apache/rocketmq/blob/master/LICENSE
 
 #### sakai
-- GPL
-- https://gitea.com/goftp/ftpd
+- ECL-2.0
+- https://github.com/sakaiproject/sakai/blob/master/LICENSE
 
 #### Seafile
-- GPL
-- https://gitea.com/goftp/ftpd
+- AGPL v3
+- https://github.com/haiwen/seafile/blob/master/LICENSE.txt
 
 #### SQL Server Express 2008
 - GPL
@@ -262,24 +262,24 @@
 - https://gitea.com/goftp/ftpd
 
 #### SuiteCRM
-- GPL
-- https://gitea.com/goftp/ftpd
+- AGPL v3
+- https://github.com/salesagility/SuiteCRM/blob/master/LICENSE.txt
 
 #### Apache Superset
 - Apache-2.0
 - https://www.apache.org/licenses/LICENSE-2.0
 
 #### tensorflow
-- GPL
-- https://gitea.com/goftp/ftpd
+- Apache-2.0
+- https://github.com/tensorflow/tensorflow/blob/master/LICENSE
 
 #### TestLink
-- GPL
-- https://gitea.com/goftp/ftpd
+- GPL v2
+- https://github.com/TestLinkOpenSourceTRMS/testlink-code/blob/testlink_1_9/LICENSE
 
 #### Trac
-- GPL
-- https://gitea.com/goftp/ftpd
+- Modified BSD license
+- https://github.com/edgewall/trac/blob/trunk/COPYING
 
 #### Apache Tomcat
 - Apache-2.0
