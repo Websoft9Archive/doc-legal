@@ -167,13 +167,9 @@
 - GPL v3
 - https://github.com/opencart/opencart/blob/master/license.txt
 
-#### oracledb
-- GPL
-- https://gitea.com/goftp/ftpd
-
 #### oraclelinux
-- GPL
-- https://gitea.com/goftp/ftpd
+- GPL v2
+- https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
 #### OwnCloud
 - GPL
