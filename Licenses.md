@@ -196,16 +196,18 @@
 - https://www.postgresql.org/about/licence/
 
 #### Prestashop
-- GPL
-- https://gitea.com/goftp/ftpd
+- OSL-3.0 & AFL-3.0
+- https://github.com/PrestaShop/PrestaShop/blob/develop/docs/licences/LICENSE.txt
 
 #### RabbitMQ Server
-- GPL
-- https://gitea.com/goftp/ftpd
+- MPL-1.1
+- https://github.com/rabbitmq/rabbitmq-server/blob/bcc93dff559c11bac7df97ed402bd762582ddc49/LICENSE-MPL-RabbitMQ
 
 #### Redis
-- GPL
-- https://gitea.com/goftp/ftpd
+- BSD 3-clause
+- https://redislabs.com/legal/licenses/
+- https://redis.io/topics/license
+- https://opensource.org/licenses/BSD-3-Clause
 
 #### Redmine
 - GPL
