@@ -172,28 +172,28 @@
 - https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
 #### OwnCloud
-- GPL
-- https://gitea.com/goftp/ftpd
+- AGPL v3
+- https://github.com/owncloud/core/blob/master/COPYING
 
 #### Parse Server
-- GPL
-- https://gitea.com/goftp/ftpd
+- BSD License
+- https://github.com/parse-community/parse-server/blob/master/LICENSE
 
 #### phabricator
-- GPL
-- https://gitea.com/goftp/ftpd
+- Apache-2.0
+- https://github.com/phacility/phabricator/blob/master/LICENSE
 
 #### PHP
 - PHP License v3.01
 - https://www.php.net/license/index.php
 
 #### pimcore
-- GPL
-- https://gitea.com/goftp/ftpd
+- GPL v3
+- https://github.com/pimcore/pimcore/blob/master/LICENSE.md
 
 #### PostgreSQL
-- GPL
-- https://gitea.com/goftp/ftpd
+- PostgreSQL License
+- https://www.postgresql.org/about/licence/
 
 #### Prestashop
 - GPL
