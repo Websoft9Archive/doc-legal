@@ -92,24 +92,24 @@
 - https://www.gnu.org/licenses/gpl-3.0.en.html
 
 #### LAMP
-- GPL
-- https://gitea.com/goftp/ftpd
+- /
+- /
 
 #### LEMP 
-- GPL
-- https://gitea.com/goftp/ftpd
+- /
+- /
 
 #### Magento Community
-- GPL
-- https://gitea.com/goftp/ftpd
+- OSL 3.0
+- https://opensource.org/licenses/OSL-3.0
 
 #### MantisBT
-- GPL
-- https://gitea.com/goftp/ftpd
+- GPL v2
+- https://github.com/mantisbt/mantisbt/blob/086f31048ccc882ebbd56c329dc66a7fd329a0a3/doc/LICENSE
 
 #### MariaDB
-- GPL
-- https://gitea.com/goftp/ftpd
+- GPL v2
+- https://mariadb.com/kb/en/library/mariadb-license/
 
 #### Mattermost
 - GPL
