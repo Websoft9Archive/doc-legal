@@ -30,6 +30,10 @@
 - MIT License
 - https://github.com/cdr/code-server/blob/master/LICENSE
 
+#### Couchbase
+- Apache-2.0
+- https://www.apache.org/licenses/LICENSE-2.0
+
 #### Countly
 - AGPL v3 with modified Section 7
 - https://github.com/Countly/countly-server/blob/master/LICENSE
@@ -66,6 +70,10 @@
 #### Graylog
 - GPL v3
 - https://github.com/Graylog2/graylog2-server/blob/master/COPYING
+
+#### Haproxy
+- GPL v2
+- http://openjdk.java.net/legal/gplv2+ce.html
 
 #### Java
 - GPL v2
