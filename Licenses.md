@@ -4,7 +4,7 @@
 
 #### Apache ActiveMQ
 - Apache-2.0
-- https://www.apache.org/licenses/LICENSE-2.0
+- https://github.com/apache/activemq/blob/master/LICENSE
 
 #### akeneo
 - OSL V3
@@ -81,7 +81,7 @@
 
 #### Apache Kafka
 - Apache-2.0
-- https://www.apache.org/licenses/LICENSE-2.0
+- https://github.com/apache/kafka/blob/trunk/LICENSE
 
 #### Knowage Community Edition
 - AGPL-3.0
@@ -90,14 +90,6 @@
 #### KodCloud
 - GPL v3
 - https://www.gnu.org/licenses/gpl-3.0.en.html
-
-#### LAMP
-- /
-- /
-
-#### LEMP 
-- /
-- /
 
 #### Magento Community
 - OSL 3.0
@@ -267,7 +259,7 @@
 
 #### Apache Superset
 - Apache-2.0
-- https://www.apache.org/licenses/LICENSE-2.0
+- https://github.com/apache/incubator-superset/blob/master/LICENSE.txt
 
 #### tensorflow
 - Apache-2.0
@@ -283,28 +275,24 @@
 
 #### Apache Tomcat
 - Apache-2.0
-- http://www.apache.org/licenses/LICENSE-2.0
+- https://github.com/apache/tomcat/blob/master/LICENSE
 
 #### Vtiger CRM
-- GPL
-- https://gitea.com/goftp/ftpd
-
-#### WAMP Server
-- GPL
-- https://gitea.com/goftp/ftpd
+- VPL 1.1
+- https://www.vtiger.com/open-source-crm/vtiger-public-license/
 
 #### wordpress
-- GPL
-- https://gitea.com/goftp/ftpd
+- GPL v2
+- https://github.com/WordPress/WordPress/blob/master/license.txt
 
 #### YouTrack
-- GPL
-- https://gitea.com/goftp/ftpd
+- Apache-2.0
+- https://github.com/JetBrains/youtrack-workflows/blob/master/LICENSE.txt
 
 #### zabbix
-- GPL
-- https://gitea.com/goftp/ftpd
+- GPL v2
+- https://github.com/zabbix/zabbix/blob/master/COPYING
 
 #### Zentao
-- GPL
-- https://gitea.com/goftp/ftpd
+- ZPL 1.2
+- https://github.com/easysoft/zentaopms/blob/master/COPYING
