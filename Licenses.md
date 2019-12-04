@@ -8,7 +8,7 @@
 
 #### akeneo
 - OSL V3
-- https://opensource.org/licenses/OSL-3.0
+- https://github.com/akeneo/pim-community-standard/blob/master/LICENCE.txt
 
 #### alfresco
 - Apache-2.0
@@ -24,7 +24,7 @@
 
 #### CentOS
 - GPL v2
-- https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+- https://github.com/CentOS/CentOS-Dockerfiles/blob/master/LICENSE
 
 #### Coder
 - MIT License
@@ -65,7 +65,7 @@
 
 #### Graylog
 - GPL v3
-- https://www.gnu.org/licenses/gpl-3.0.en.html
+- https://github.com/Graylog2/graylog2-server/blob/master/COPYING
 
 #### Java
 - GPL v2
@@ -129,11 +129,11 @@
 
 #### MySQL
 - GPL v2
-- https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+- https://github.com/mysql/mysql-server/blob/8.0/LICENSE
 
 #### neo4j
 - GPL v3
-- https://www.gnu.org/licenses/quick-guide-gplv3.html
+- https://github.com/neo4j/neo4j/blob/4.0/community/bolt/LICENSE.txt
 
 #### nextcloud
 - AGPL v3
