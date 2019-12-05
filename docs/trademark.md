@@ -1,6 +1,6 @@
 # Trademark
 
-Websoft9 packages(“Image”,”Stack”) a wide range of opensource software and provide Images on the Cloud Platform(Include AWS,Azure,AlibabaCloud,HUAWEI CLOUD). Websoft8 software packages include trademarks that are the property of their respective owners and are made available under various trademark and licensing policies. You will need to reference those individual policies regarding the use of any trademarks contained within Websoft9 Images.
+Websoft9 packages(“Image”,”Stack”) a wide range of opensource software and provide Images on the Cloud Platform(Include AWS,Azure,AlibabaCloud,HUAWEI CLOUD). Websoft9 software packages include trademarks that are the property of their respective owners and are made available under various trademark and licensing policies. You will need to reference those individual policies regarding the use of any trademarks contained within Websoft9 Images.
 
 
 
