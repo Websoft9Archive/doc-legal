@@ -15,10 +15,10 @@
 - https://github.com/Alfresco/acs-community-packaging/blob/develop/LICENSE
 
 #### AWX- Ansible Tower Community Edition
-- Apache License 2.0
+- Apache-2.0
 - https://github.com/ansible/awx/blob/devel/LICENSE.md
 
-#### bt
+#### 宝塔BT
 - 宝塔开源许可协议
 - https://github.com/aaPanel/BaoTa/blob/master/license.txt
 
@@ -27,7 +27,7 @@
 - https://github.com/CentOS/CentOS-Dockerfiles/blob/master/LICENSE
 
 #### Coder
-- MIT License
+- MIT
 - https://github.com/cdr/code-server/blob/master/LICENSE
 
 #### Couchbase
@@ -51,20 +51,20 @@
 - https://github.com/frappe/erpnext/blob/develop/license.txt
 
 #### Ghost
-- MIT License
+- MIT
 - https://github.com/TryGhost/Ghost/blob/master/LICENSE
 
 #### Gitlab-CE
-- MIT license
+- MIT
 - https://gitlab.com/gitlab-org/gitlab-foss/blob/master/LICENSE
 - https://docs.gitlab.com/ce/development/licensing.html
 
 #### Gogs
-- MIT License
+- MIT
 - https://github.com/gogs/gogs/blob/master/LICENSE
 
 #### Grafana
-- Apache License 2.0
+- Apache-2.0
 - https://github.com/grafana/grafana/blob/master/LICENSE
 
 #### Graylog
@@ -92,7 +92,7 @@
 - https://github.com/apache/kafka/blob/trunk/LICENSE
 
 #### Knowage Community Edition
-- AGPL-3.0
+- AGPL v3
 - https://github.com/KnowageLabs/Knowage-Server/blob/master/LICENSE
 
 #### KodCloud
@@ -112,7 +112,7 @@
 - https://mariadb.com/kb/en/library/mariadb-license/
 
 #### Mattermost
-- AGPL v3.0
+- AGPL v3
 - https://github.com/mattermost/mattermost-server/blob/master/LICENSE.txt
 
 #### Mediawiki
