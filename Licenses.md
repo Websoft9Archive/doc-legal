@@ -234,32 +234,20 @@
 - https://github.com/haiwen/seafile/blob/master/LICENSE.txt
 
 #### SQL Server Express 2008
-- GPL
-- https://gitea.com/goftp/ftpd
+- 
+- https://www.microsoft.com/en-us/download/details.aspx?id=29693
 
 #### SQL Server Express 2012
-- GPL
-- https://gitea.com/goftp/ftpd
+- 
+- https://www.microsoft.com/en-us/download/details.aspx?id=29693
 
 #### SQL Server Express 2005
-- GPL
-- https://gitea.com/goftp/ftpd
+- 
+- https://www.microsoft.com/en-us/download/details.aspx?id=29693
 
 #### SQL Server Express 2014
-- GPL
-- https://gitea.com/goftp/ftpd
-
-#### SQL Server Express 2016
-- GPL
-- https://gitea.com/goftp/ftpd
-
-#### SQL Server Express 2017
-- GPL
-- https://gitea.com/goftp/ftpd
-
-#### SQL Server Express 2017 linux
-- GPL
-- https://gitea.com/goftp/ftpd
+- 
+- https://www.microsoft.com/en-us/download/details.aspx?id=29693
 
 #### SuiteCRM
 - AGPL v3
