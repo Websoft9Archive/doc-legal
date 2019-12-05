@@ -73,7 +73,7 @@
 
 #### Haproxy
 - GPL v2
-- http://openjdk.java.net/legal/gplv2+ce.html
+- https://github.com/haproxy/haproxy/blob/master/LICENSE
 
 #### Java
 - GPL v2
@@ -300,6 +300,10 @@
 #### zabbix
 - GPL v2
 - https://github.com/zabbix/zabbix/blob/master/COPYING
+
+#### Zdoo
+- ZPL 1.2
+- https://github.com/easysoft/zentaopms/blob/master/COPYING
 
 #### Zentao
 - ZPL 1.2
