@@ -152,7 +152,6 @@
 - http://nginx.org/LICENSE
 
 #### Node.js
-- 
 - https://github.com/nodejs/node/blob/master/LICENSE
 
 #### Odoo Community Edition
@@ -234,19 +233,15 @@
 - https://github.com/haiwen/seafile/blob/master/LICENSE.txt
 
 #### SQL Server Express 2008
-- 
 - https://www.microsoft.com/en-us/download/details.aspx?id=29693
 
 #### SQL Server Express 2012
-- 
 - https://www.microsoft.com/en-us/download/details.aspx?id=29693
 
 #### SQL Server Express 2005
-- 
 - https://www.microsoft.com/en-us/download/details.aspx?id=29693
 
 #### SQL Server Express 2014
-- 
 - https://www.microsoft.com/en-us/download/details.aspx?id=29693
 
 #### SuiteCRM
