@@ -95,10 +95,6 @@
 - GPL v2
 - https://github.com/joomla/joomla-cms/blob/staging/LICENSE.txt
 
-#### Apache Kafka
-- Apache-2.0
-- https://github.com/apache/kafka/blob/trunk/LICENSE
-
 #### Knowage Community Edition
 - AGPL v3
 - https://github.com/KnowageLabs/Knowage-Server/blob/master/LICENSE
