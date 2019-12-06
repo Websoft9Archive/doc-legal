@@ -10,6 +10,10 @@
 - Apache-2.0
 - https://github.com/apache/kafka/blob/trunk/LICENSE
 
+#### Apache Rocket.MQ
+- Apache-2.0
+- https://github.com/apache/rocketmq/blob/master/LICENSE
+
 #### Apache Zookeeper
 - Apache-2.0
 - https://github.com/apache/zookeeper/blob/master/LICENSE.txt
@@ -223,10 +227,6 @@
 #### Rocket.Chat
 - MIT
 - https://github.com/RocketChat/Rocket.Chat/blob/develop/LICENSE
-
-#### Apache Rocket.MQ
-- Apache-2.0
-- https://github.com/apache/rocketmq/blob/master/LICENSE
 
 #### Sakai
 - ECL-2.0
