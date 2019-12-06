@@ -6,6 +6,10 @@
 - Apache-2.0
 - https://github.com/apache/activemq/blob/master/LICENSE
 
+#### Apache Zookeeper
+- Apache-2.0
+- https://www.apache.org/licenses/LICENSE-2.0
+
 #### akeneo
 - OSL V3
 - https://github.com/akeneo/pim-community-standard/blob/master/LICENCE.txt
