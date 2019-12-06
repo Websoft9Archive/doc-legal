@@ -6,9 +6,13 @@
 - Apache-2.0
 - https://github.com/apache/activemq/blob/master/LICENSE
 
+#### Apache Kafka
+- Apache-2.0
+- https://github.com/apache/kafka/blob/trunk/LICENSE
+
 #### Apache Zookeeper
 - Apache-2.0
-- https://www.apache.org/licenses/LICENSE-2.0
+- https://github.com/apache/zookeeper/blob/master/LICENSE.txt
 
 #### akeneo
 - OSL V3
