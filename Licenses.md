@@ -14,11 +14,11 @@
 - Apache-2.0
 - https://github.com/apache/zookeeper/blob/master/LICENSE.txt
 
-#### akeneo
+#### Akeneo
 - OSL V3
 - https://github.com/akeneo/pim-community-standard/blob/master/LICENCE.txt
 
-#### alfresco
+#### Alfresco
 - Apache-2.0
 - https://github.com/Alfresco/acs-community-packaging/blob/develop/LICENSE
 
@@ -50,7 +50,7 @@
 - GPL v2
 - https://github.com/discourse/discourse/blob/master/LICENSE.txt
 
-#### drupal
+#### Drupal
 - GPL v2
 - https://github.com/drupal/drupal/blob/8.8.x/core/LICENSE.txt
 
@@ -139,7 +139,7 @@
 - SSPL
 - https://github.com/mongodb/mongo/blob/master/LICENSE-Community.txt
 
-#### moodle
+#### Moodle
 - GPL v3
 - https://github.com/moodle/moodle/blob/master/COPYING.txt
 
@@ -147,15 +147,15 @@
 - GPL v2
 - https://github.com/mysql/mysql-server/blob/8.0/LICENSE
 
-#### neo4j
+#### Neo4j
 - GPL v3
 - https://github.com/neo4j/neo4j/blob/4.0/community/bolt/LICENSE.txt
 
-#### nextcloud
+#### NextCloud
 - AGPL v3
 - https://github.com/nextcloud/server/blob/master/COPYING
 
-#### nginx
+#### Nginx
 - 2-clause BSD-like license
 - http://nginx.org/LICENSE
 
@@ -166,7 +166,7 @@
 - LGPL v3
 - https://github.com/odoo/odoo/blob/13.0/LICENSE
 
-#### onlyoffice document server
+#### Onlyoffice document server
 - AGPL v3
 - https://github.com/ONLYOFFICE/DocumentServer/blob/master/LICENSE.txt
 
@@ -174,11 +174,11 @@
 - GPL v3
 - https://github.com/opencart/opencart/blob/master/license.txt
 
-#### oraclelinux
+#### Oracle Linux
 - GPL v2
 - https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
-#### OwnCloud
+#### ownCloud
 - AGPL v3
 - https://github.com/owncloud/core/blob/master/COPYING
 
@@ -186,7 +186,7 @@
 - BSD License
 - https://github.com/parse-community/parse-server/blob/master/LICENSE
 
-#### phabricator
+#### Phabricator
 - Apache-2.0
 - https://github.com/phacility/phabricator/blob/master/LICENSE
 
@@ -194,7 +194,7 @@
 - PHP License v3.01
 - https://www.php.net/license/index.php
 
-#### pimcore
+#### PIMCore
 - GPL v3
 - https://github.com/pimcore/pimcore/blob/master/LICENSE.md
 
@@ -220,7 +220,7 @@
 - GPL v2
 - https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
-#### reportserver
+#### Reportserver
 - AGPL
 - https://reportserver.net/en/agpl-license/
 
@@ -232,7 +232,7 @@
 - Apache-2.0
 - https://github.com/apache/rocketmq/blob/master/LICENSE
 
-#### sakai
+#### Sakai
 - ECL-2.0
 - https://github.com/sakaiproject/sakai/blob/master/LICENSE
 
@@ -260,7 +260,7 @@
 - Apache-2.0
 - https://github.com/apache/incubator-superset/blob/master/LICENSE.txt
 
-#### tensorflow
+#### Tensorflow
 - Apache-2.0
 - https://github.com/tensorflow/tensorflow/blob/master/LICENSE
 
@@ -280,7 +280,7 @@
 - VPL 1.1
 - https://www.vtiger.com/open-source-crm/vtiger-public-license/
 
-#### wordpress
+#### Wordpress
 - GPL v2
 - https://github.com/WordPress/WordPress/blob/master/license.txt
 
@@ -288,7 +288,7 @@
 - Apache-2.0
 - https://github.com/JetBrains/youtrack-workflows/blob/master/LICENSE.txt
 
-#### zabbix
+#### Zabbix
 - GPL v2
 - https://github.com/zabbix/zabbix/blob/master/COPYING
 
