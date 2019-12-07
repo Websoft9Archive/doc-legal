@@ -14,6 +14,10 @@
 - Apache-2.0
 - https://github.com/apache/rocketmq/blob/master/LICENSE
 
+#### Apache Superset
+- Apache-2.0
+- https://github.com/apache/incubator-superset/blob/master/LICENSE.txt
+
 #### Apache Zookeeper
 - Apache-2.0
 - https://github.com/apache/zookeeper/blob/master/LICENSE.txt
@@ -37,6 +41,10 @@
 #### CentOS
 - GPL v2
 - https://github.com/CentOS/CentOS-Dockerfiles/blob/master/LICENSE
+
+#### Concrete5
+- MIT
+- https://github.com/concrete5/concrete5/blob/develop/LICENSE.TXT
 
 #### Coder
 - MIT
@@ -251,10 +259,6 @@
 #### SuiteCRM
 - AGPL v3
 - https://github.com/salesagility/SuiteCRM/blob/master/LICENSE.txt
-
-#### Apache Superset
-- Apache-2.0
-- https://github.com/apache/incubator-superset/blob/master/LICENSE.txt
 
 #### Tensorflow
 - Apache-2.0
