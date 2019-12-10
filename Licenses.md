@@ -99,7 +99,7 @@
 - GPL v3
 - https://github.com/Graylog2/graylog2-server/blob/master/COPYING
 
-#### Haproxy
+#### HAProxy
 - GPL v2
 - https://github.com/haproxy/haproxy/blob/master/LICENSE
 
