@@ -1,3 +1,7 @@
+#### Adminmongo
+- MIT
+- https://github.com/mrvautin/adminMongo/blob/master/LICENSE
+
 #### Apache
 - Apache-2.0
 - https://www.apache.org/licenses/LICENSE-2.0
@@ -61,6 +65,10 @@
 #### Discourse
 - GPL v2
 - https://github.com/discourse/discourse/blob/master/LICENSE.txt
+
+#### Docker
+- Apache-2.0
+- https://github.com/docker/docker-ce/blob/master/components/engine/LICENSE
 
 #### Drupal
 - GPL v2
@@ -299,7 +307,3 @@
 #### Zentao
 - ZPL 1.2
 - https://github.com/easysoft/zentaopms/blob/master/COPYING
-
-#### Zookeeper
-- Apache-2.0
-- https://github.com/apache/zookeeper/blob/master/LICENSE.txt
