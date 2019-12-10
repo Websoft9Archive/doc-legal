@@ -190,6 +190,10 @@
 - GPL v3
 - https://github.com/opencart/opencart/blob/master/license.txt
 
+#### OpenJDK
+- GPL v2
+- http://openjdk.java.net/legal/gplv2+ce.html
+
 #### Oracle Linux
 - GPL v2
 - https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
