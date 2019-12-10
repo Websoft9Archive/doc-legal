@@ -299,3 +299,7 @@
 #### Zentao
 - ZPL 1.2
 - https://github.com/easysoft/zentaopms/blob/master/COPYING
+
+#### Zookeeper
+- Apache-2.0
+- https://github.com/apache/zookeeper/blob/master/LICENSE.txt
