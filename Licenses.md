@@ -133,7 +133,7 @@
 
 #### MariaDB
 - GPL v2
-- https://mariadb.com/kb/en/library/mariadb-license/
+- https://github.com/MariaDB/server/blob/10.5/COPYING
 
 #### Mattermost
 - AGPL v3
