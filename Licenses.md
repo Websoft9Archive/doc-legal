@@ -125,7 +125,7 @@
 
 #### Magento Community
 - OSL 3.0
-- https://opensource.org/licenses/OSL-3.0
+- https://github.com/magento/magento2/blob/2.4-develop/LICENSE.txt
 
 #### MantisBT
 - GPL v2
