@@ -214,6 +214,10 @@
 - PHP License v3.01
 - https://www.php.net/license/index.php
 
+#### phpMyadmin
+- GPL v2
+- https://github.com/phpmyadmin/phpmyadmin/blob/master/LICENSE
+
 #### PIMCore
 - GPL v3
 - https://github.com/pimcore/pimcore/blob/master/LICENSE.md
