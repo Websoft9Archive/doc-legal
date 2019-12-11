@@ -34,7 +34,7 @@
 - Apache-2.0
 - https://github.com/Alfresco/acs-community-packaging/blob/develop/LICENSE
 
-#### AWX- Ansible Tower Community Edition
+#### AWX- Ansible Tower Community Edition 
 - Apache-2.0
 - https://github.com/ansible/awx/blob/devel/LICENSE.md
 
