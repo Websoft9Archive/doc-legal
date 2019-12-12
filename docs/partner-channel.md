@@ -1,133 +1,129 @@
-Websoft9 Channel Partner Agreement
+# Websoft9 Channel Partner Agreement
 
- 
+Websoft9 attaches great importance to the development of partnerships, and the promotion of our business is inseparable from the support of our partners.
 
-Websoft9 Channel Partner is an essential partner category of Websoft9. Our channel partner can sell Websoft9's products to customers for standalone sale, or incorporate Websoft9 products into partner offers and sell to the customers. Meanwhile Channel Partner has both basic programs and advanced programs. The basic programs focus on basic business models including agency, reseller and distributor. While the advanced program will focus on selected verticals or selected market to demonstrate Websoft9 unique advantage. Websoft9 provides channel partners effective supports, including training and enablement system, go-to-market support, sales & operation support, and technology support. All of these support will ensure our partner is capable to tap in the market and succeed.
+Websoft9 adheres to an open, cooperative and win-win cloud ecosystem. As a mainstream technology supplier of “automated deployment of open source software”, we are willing to be “integrated” as your technology / service partner to fully support partners to conduct business in the background. Websoft9 adheres to business boundaries, follows open source agreements, respects intellectual property rights, and works with partners to jointly innovate and continue to create value for customers and partners.
 
- 
+Websoft9 partners are currently divided into the following four types:
 
-**定义**
+* ** Channel partners ** resell Websoft9 products / services;
+* ** Technical Partner ** means integrating Websoft9 products / services to provide customers with overall solutions, such as SI or industry solution providers;
+* ** Independent Software Partners ** means software companies that release products to mainstream cloud markets via Websoft9;
+* ** Cloud Vendor Partner ** is a mainstream cloud vendor providing cloud market, such as: Azure, AWS, etc.
 
- 
+This agreement only applies to ** channel partners ** (referred to as "WCPN"), if you sign this agreement, you will become our channel partner. This agreement sets out the terms and conditions governing your application and certification as a WCPN Partner and your participation. The WCPN Terms constitute a legally binding agreement between you and Websoft9. By applying to become a WCPN partner, accepting Websoft9's certification as a WCPN partner, and / or participating in this program, you are accepting these WCPN terms. If you do not accept all of these terms and conditions, please do not apply to become a WCPN Partner.
 
-Websoft9的渠道合作伙伴指通过直接向客户售卖Websoft9的产品或全面促成Websoft9直接与客户签约，并从中获取销售佣金/差价的合作伙伴（区别于技术合作伙伴）。
+The parties to this agreement are Websoft9 and the partner who signed this agreement ("you"). The abbreviations will be used in the following.
 
- 
+## Definition
 
-本文所涉及的伙伴单位是美元
+Websoft9's channel partners resell Websoft9 products, that is, sell Websoft9 products directly to customers or be entrusted by Websoft9 to act as a full agent. Websoft9 directly conducts business negotiations with customers and promotes customers to sign contracts with Websoft9.
 
- 
+The currency unit of sales performance referred to in this agreement is USD.
 
-**条件**
 
- 
+## Conditions
 
-合作伙伴在所在的地区（国家）有较强的销售能力，广泛的关系网络，并准备对应的销售与技术资源，包括：
+Partners have strong sales capabilities in their countries (regions), extensive relationships, and supporting sales and technical support resources, including but not limited to:
 
- 
+1. Sales team consisting of no less than 2 salespeople or managers
+2. A technical team of no less than 2 technical support engineers, familiar with public cloud and Linux systems
+3. Cloud computing as the main business
 
-\1. 不低于2名销售人员或经理组成的销售团队
+## application process
 
-\2. 不低于2名技术支持工程师组成的技术团队，熟悉公有云和Linux系统
+First communicate the cooperation intention by email: partner@websoft9.com and provide relevant supporting documents, including but not limited to:
 
- 
+1. Provide the company's business registration certificate. This certificate can be found on the official website of the country where the registration is located.
+2. Provide a business account for paying commissions
+3. Partner company introduction
 
-**申请流程**
+## Partner Rights and Obligations
 
- 
+* Partners can promote Websoft9 products and services to direct customers, but must not develop lower-level agents (including but not limited to secondary agents, subcontracting and any other acts that are directly or indirectly the same or similar in nature to agents).
+* Partners should conduct business in accordance with the principles of good faith and mutual benefit.
+* The information submitted by partners should be true, legal and valid. It shall not violate the laws and regulations of the country in which it is located, public moral standards, and shall not harm the interests of third parties.
+* The partner shall keep the partner account and password in a safe place, and shall not provide the account to others for use. Any operation performed by the partner account is deemed to be the operation of the partner, and the partner bears all responsibility.
+* Partners should ensure that they and their customers pay on time;
 
-首先通过邮件，双方确认合作意向，并提供相关证明文件
+## Cooperation Area
 
- 
+Where you work with Websoft9 is ______
 
-\1. 提供公司商业登记证明文件，此证明文件可以通过注册所在地的国家官方网站上查询到注册信息
+Would you like to be the only channel partner in the region?
 
-\2. 提供用于支付佣金的商业账号
+Exclusive Channel Partner Rights and Obligations:
 
- 
+* The only partner in the region is exclusive, that is, Websoft9 will no longer add other channel partners in this region
+* As the sole partner, the annual sales performance contributed to Websoft9 is not less than 100k, and the uniqueness is cancelled if the performance is not reached
 
- 
+## time
 
-**区域**
+This agreement takes effect: _____________, valid for one year, and re-signed after one year.
 
- 
+## Partner Benefits
 
-您与Websoft9合作的地域为__________________________
+After joining the Websoft9 Channel Partner Program, partners can enjoy the following benefits
 
-您是否愿意成为该区域唯一的渠道合作伙伴？
+### Training support
 
- 
+For partners we provide: product categories, FAQs, sales programs and other training to help partners improve their professional capabilities
 
-唯一渠道合作伙伴权利与义务：
+### Technical Support
 
- 
+For the products sold, we provide comprehensive online support services for partners and end users, that is, the technical support of the products sold is provided by Websoft9, including: technical support scope, response time and content using standard support mode
 
-l 唯一性，排他性，即Websoft9在此区域不再增加其他渠道合作伙伴
+### Marketing support
 
-l 合作伙伴对Websoft9贡献的年度销售业绩不低于 100k  USD
+We provide comprehensive market support to help partners expand their influence
 
-l Websoft9将
+* Authorize partners to conduct business in local (country) and not compete with partners
+* Allow partners to showcase their partnership with Websoft9 on websites or other promotional channels
+* Enter partners into Websoft9 official website partner directory
+* Authorized use of "Websoft9 Partner" logo
+* Participate in Websoft9 ecosystem activities
+* The official logo, images, web content, audio, video or other content provided by Websoft9, including any case studies, recommendations or customer references ("Other Materials"), the ownership remains Websoft9, you can follow our trademark and open source license for free use
 
- 
+### Sales (Project) Support
 
- 
+The purpose of sales (project) support is to fully assist customer partners in signing contracts with customers. Our partners often have two sales models:
 
-**合作范围**
+* The first type: Partner purchases goods from Websoft9 and resells to customers
+* The second type: the partner signs the contract directly with the customer through Websoft9 authorization
 
- 
+For the above two sales models, we have given the same sales (project) support policies and support efforts, including:
 
-\1. 授权合作伙伴在当地（国家）开展业务
+* Pre-sales support: project proposal, demonstration test preparation, collaborative negotiation, technical question answering
+* Business support: special price application, drafting agreement
+* Staff support: Configure one-on-one partner promotion experts
 
-\2. 允许合作伙伴在网站或其他宣传渠道上展示与Websoft9的合作关系
 
-\3. 支持合作伙伴，不与合作伙伴展开竞争
+### sales commission
 
-\4. 支持两种销售模式：
+For partners' direct or indirect sales performance, we give generous sales rebates:
 
-第一种：合作伙伴向Websoft9采购商品，然后转售给客户
+For a single contract, a stepped rebate policy is adopted:
 
-第二种：合作伙伴全球代理Websoft9直接与客户签约事宜，销售佣金不低于15%
+* 1-100k, project commission is 15%
+* 100-300k, project commission is 20%
+* More than 300k, project commission is 25%
 
-\3. 所销售的产品的技术支持，均由Websoft9提供，技术支持范围、响应时间和内容采用标准支持模式
+At the same time, we provide cumulative rebates for annual sales. The main policies are as follows:
 
- 
+* Annual cumulative sales> = 400k, additional 5% rebate
+* Annual cumulative sales> = 800k, additional 10% rebate
 
-**销售奖励**
+Sales commission considerations:
 
- 
+1. The above rebate policy is valid for the same period as this agreement
+2. New or renewed customers have the same sales performance
+3. Direct sales or indirect sales are equivalent sales performance
+4. Sales performance starts from the receipt of payment from partners (or customers) by Websoft9. Signing a contract cannot be counted as sales performance
 
-项目销售返佣：
+## Termination
 
- 
+Once a partner violates one of the following conditions, they can terminate this agreement directly without waiting for the agreement to expire:
 
-1-100k，项目佣金为15%
-
-100-300k，项目佣金为20%
-
-\>300k，项目佣金为25%
-
- 
-
-年度销售累计返佣：
-
- 
-
-年度累计销售额 >= 400k，额外返佣 5%
-
- 
-
-说明：新增客户或续费客户均为同等销售业绩
-
- 
-
-\## 市场与影响
-
- 
-
- 
-
- 
-
- 
-
- 
+1. Using Websoft9's partner status to engage in illegal crimes
+2. Any bankruptcy, liquidation, dissolution or similar situation of the partner
+3. Illegal intellectual property and open source license agreements
