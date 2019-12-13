@@ -222,6 +222,10 @@
 - GPL v3
 - https://github.com/pimcore/pimcore/blob/master/LICENSE.md
 
+#### Portainer
+- Zlib License
+- https://github.com/portainer/portainer/blob/develop/LICENSE
+
 #### PostgreSQL
 - PostgreSQL License
 - https://www.postgresql.org/about/licence/
