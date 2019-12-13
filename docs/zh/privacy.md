@@ -1,104 +1,185 @@
 # 隐私政策
 
-Websoft9 Inc. (“Websoft9”, “we”, “our” and “us”) understands how important your privacy is to you and fully respects it. Please carefully read and understand this Privacy Policy (“Policy”) before you agree to submit your personal data to us. This Statement applies to https://en.websoft9.com/ (“Website”), and all Image products and services that display or refer to this Statement. We do not access or process your Content for any purpose without your consent, unless this is required by applicable laws and regulations.
+长沙网久软件有限公司（以下简称“网久软件”或“我们”）深知网站访问者或产品使用用户（以下简称“您”）的隐私对您的重要性，并充分尊重您的隐私。在同意向我们提交您的个人数据之前，请您仔细阅读并理解本《隐私政策声明》（以下简称“本声明”）。
 
-Content means software (including machine images), data, text, audio, video, or images that you process, store, or host by our products or services in connection with your account, and any computational results that you derive from the foregoing, when you use our products or services. This does not include account information that you provide to us in connection with the creation or administration of your account. Please refer to the links below to see your rights and obligations of Content and how we handle your Content.
+本声明适用于如下场景：
 
-**What personal data do we collect?**
+* 您通过网久软件网站（以下简称“网久网站”）获取我们的产品、服务和文档。
+* 您通过公有云云市场（以下简称“云市场”）使用我们的产品、服务和文档。
 
-In the context of rendering our Services, be it online or offline, we may collect information about you. This information regularly includes the following:
+产品一旦部署到您的服务器之后，我们没有任何需要采集您的数据的流程，但我们不排除产品中的开源组件收集的数据的情况，此种情况下需您阅读相关开源组件的隐私政策。  
 
-- If you use a Websoft9 Virtual Machine or Cloud Image: from downloaded, pulled or deployed instances we may collect information such as the platform, instance type, IP address, operating system details, the application being used or the Websoft9 account used to launch the image.
-- If you register on our websites or sign up for a trial: Name, e-mail address, mailing address, phone number, company name, job title, IP address, username and password.
-- If you register for a paid service: in addition to the above, credit card or other payment information and information on your order such as price, license, service plan.
-- If you subscribe to our newsletter: Name, email address, marketing campaign information such as your reaction to our marketing and your interest in our Services.
-- If you contact us (via our websites or via phone, email or letter), e.g. for a support request, respond to a survey, send us an inquiry or post to our forum: Name, e-mail address, mailing address, phone number, company name, job title, IP address, information on our communication with you and any additional information you provide us with.
-- If you run the Websoft9 Support in relation to a support request about a downloaded, pulled or deployed instance: System Information (such as operating system details, IP address, CPU and memory details), stack information (such as name, version, installation directory and user), and configuration and log files.
-- If you merely visit our websites: IP address, browser data, browser type, device type, device ID, Uniform Resource Locators (URL), operating system, language preferences, information on your usage of our websites and online activities.
+未经您的同意，我们不会出于任何目的访问或处理您的内容数据，除非适用的法律法规要求。
 
-**How Websoft9 Processes Your Personal Data**
+内容数据是指您订购或使用我们产品或服务时，您进行处理、存储或交由与您的账户关联的我们的产品或服务托管的软件（镜像）、数据、文本、音频、视频或图像，以及通过上述内容数据得出的任何计算结果。这不包括您在创建或管理账户时向我们提供的账户信息。
 
-We may use your personal data only limited for:
+本声明描述了我们如何收集、使用和披露您的个人数据，以及数据处理的法律依据和安全措施。它还表明在我们处理您的个人数据时，您控制个人数据的权利，以及您在向我们提供个人数据之前需要了解的其他相关详细信息。但是，本声明可能无法涉及所有数据处理场景。我们可能会在收集前通过补充声明或通知，告知您特定产品或服务的数据收集。
 
-- Creating an account on Websoft9’s websites.
-- Fulfilling your transaction or service requests, including fulfilling orders; delivering, activating, or verifying products or services; fulfilling your requests for changes or providing you with the requested information (such as marketing materials for products and services, and white papers); and providing technical support.
-- Contacting you; sending you information about products and services that may interest you; inviting you to participate in Websoft9 activities (including promotional activities), market surveys, or satisfaction surveys; or sending you marketing information. If you do not want to receive these types of information, you can opt out at any time
-- Sending you important notices.
-- Providing you with personalized user experience and content.
-- Improving our products and services through internal audits, data analysis, and research.
-- Analyzing the efficiency of our business operations and evaluating market share.
-- Troubleshooting when you send us error reports.
-- Ensuring the security of our products, services and customers or users, executing and improving our loss prevention and anti-fraud programs.
-- Complying with and enforcing applicable legal requirements, industry standards or our policies.
 
-We may not disclose your personal data to a third party except in the following cases:
+本声明属于《网久软件用户许可协议》不可分割的一部分。您同意《网久软件用户许可协议》，即视为您已经同意本声明的全部内容。
 
-- The disclosure is mandatorily required in accordance with applicable laws and regulations.
-- We may disclose your personal data within the most limited scope, when appropriate, for protecting rights or property of Websoft9, our customer sand the public. For example, we may disclose your personal data, when we believe disclosure is necessary or appropriate to prevent or defend cyber threat, fraud, physical harm, or financial loss, or when it is in connection with an investigation of suspected or actual illegal activity.
-- We may disclose your personal data to our associate companies, our affiliates, service providers, subcontractors, partners or successors to enable them to provide transaction support, service support or security support for you. In this case, we ensure these companies shall guarantee the same personal data protection standard as this Statement, and shall not use personal data for other purposes.
 
-We only disclose your personal data to the extent permitted by applicable laws and regulations and pursuant to this Statement. We do not provide, sell, and rent your personal data for or to any third party unconcerned unless otherwise permitted by you or specified in this Statement.
+## 目录
 
-**How Websoft9 Uses Cookies**
+我们制定本声明以帮助您理解：
 
-To ensure our website works correctly, we may at times place a small piece of data known as a cookie on your computer or mobile device. A cookie is a text file stored by a web server on a computer or mobile device. The content of a cookie can be retrieved or read only by the server that creates the cookie. The text in a cookie often consists of identifiers, site names, and some numbers and characters. Cookies are unique to the browsers or mobile applications you use, and enable websites to store data such as your preferences.
+- 我们如何收集您的个人数据
 
-Like many other websites or Internet service providers, we use cookies to improve user experience. To be specific, the purposes are as follows:
+- 我们如何处理您的个人数据
 
-- Cookies allow websites to remember your settings such as language, font size on your computer or mobile device, or other browser preferences. This means that a user does not need to reset preferences for every visit.
-- We may count some data of advertising of Websoft9, such as the times that advertising pops up on the Website and the situation of clicking advertising on other websites.
-- Authentication. When you visit the Website, we may create a unique ID to identify you. If cookies with this function are not used, the Website will treat you as a new visitor every time you load a web page. For example, if you are redirected to another web page from the Website you are already logged in to and then return to the Website, it will not recognize you and you must log in again.
-- Statistics and analysis. For instance, we use cookie to count the number of visitors of the Website and to learn about sources of your visiting.
-- Security. We use cookie to secure the operation of the Website.
+- 我们如何使用Cookies
 
-Third parties may set their cookies on our Website, like Google and Baidu. They use these cookies to learn about your interaction with our Website. You can learn more about how these third parties use cookies by visiting their sites.
+- 我们如何保护您的个人数据
 
-**How Websoft9 Protects Your Personal Data**
+- 我们如何访问或控制您的个人数据
 
-We take personal data security seriously. We will take appropriate physical, organizational, and technical measures to protect your personal data against unauthorized access, disclosure, use, modification, damage or loss. For example, we use encryption to ensure data confidentiality; we use trusted protection mechanisms to prevent malicious data attacks; we deploy access control mechanisms to ensure that only authorized personnel can access personal data; and we raise awareness among employees about the importance of protecting personal data through security and privacy protection training sessions. While we take the utmost care to protect your personal data, please note that no security measures are completely infallible.
+- 云服务商（云市场）及其服务
 
-We will retain your personal data for no longer than is necessary for the purposes stated in this Statement, unless otherwise extending the retention period is required by laws or requested by you. The data storage period may vary with scenario, product, and service. The standards we use to determine the retention period are as follows: the time required to retain personal data to fulfill business purposes, including providing products and services; maintaining corresponding transaction and business records as required by laws; ensuring the security of systems, products, and services; handling possible user queries or complaints and locating problems; whether the user agrees to a longer retention period; and whether the laws, contracts, and other equivalencies have special requirements for data retention; etc. We will maintain your account information as long as your account is necessary for service provision. You can choose to deregister your account. After you deregister your account, we will stop providing you with products and services through your account and delete your relevant personal data, provided that deletion is not otherwise stipulated by special legal requirements.
+- 您的个人数据如何进行跨境转移
 
-Although we protect your personal data, you are responsible for safekeeping your data including accounts and passwords.
+- 如何更新本声明
 
-If you find your account or password is used by others without your permission to log in to this Website, please notify us of this case promptly. You have the right to request us to suspend any unauthorized use of your account or password.
+- 如何联系网久软件
 
-In case of any data breaches we found on your personal data we collected, stored and processed, we may inform you and/or the competent authority through publishing an announcement on Websoft9 website, sending you an email or other reasonable means according to the requirements of applicable laws and/or from competent authority. If your personal information is leaked due to reasons attributable to us, we will make reasonable efforts to notify you in a timely manner after confirming the consequence and root causes of the data breach.
+## 如何收集您的个人数据
 
-**How to Access and Control Your Personal Data**
+### 个人数据
 
-It is your responsibility to ensure that all personal data submitted to us is correct. We are dedicated to maintaining the accuracy and completeness of personal data and keeping the data up-to-date.
+个人数据是指单独使用或结合其他信息使用时能够确定个人身份的信息。我们在您与我们的互动过程中出于不同的目的收集您的个人数据，例如向您提供我们的产品或服务以及维护我们产品或服务的最佳运营状态。您与我们的互动可能包括：在本网站注册账户，订购我们的产品或服务，向我们完成付款，在处理问题时联系我们，浏览我们的网站以及配置我们网站的设置或您的账户设置。
 
-Subject to applicable laws and regulations, you may: (1) have the right to access any personal data about you that we hold; (2) request us to update or correct your data; (3) ask us to remove your data; and (4) refuse or restrict us to process your data. If you need our assistance to exercise the rights above, please contact us through10. How to Contact Websoft9. Please note that under some circumstances, including without limitation where your identity cannot be verified, or your claim is beyond the scope of rights, or other circumstances under laws and regulations, your requests may be refused. Where you find any breach of this Statement, you can also raise a concern or lodge a complaint with a data protection authority or other officials with jurisdiction.
+根据您使用本网站以及我们提供的产品或服务，我们收集的个人数据主要包括以下内容：
 
-Here are some instructions for you to control your personal data collected by us:
+1. 提交给我们的个人数据，用于在本网站注册用户账户，例如用户名、用户ID和手机号码。
 
-- Account information: If you want to add or update personal data related to your account, please go to the Website and follow steps: Log in>My Account.
-- Cookies: Regarding the management of Cookies
-- Message: Please go to the Website and follow steps: Log in>My Account> Message Receiving Management.
+2. 当您联系我们，使用我们的产品或服务，或获得我们支持或帮助时提供的个人数据，例如地址、邮政编码、姓名、护照或其他身份信息、人脸信息（用于实名认证或备案认证）、银行账户信息、电子邮箱、您的公司名称、行业、职位、发票信息、税务信息和签名。
 
-**How Websoft9 Handles Personal Data of Children**
+3. 当您访问和使用本网站或本网站提供的服务时，我们获取并自动记录的个人数据，例如您的历史浏览记录、访问日期和时间，您使用的浏览器信息（包括但不限于字体和类型等），网站上的操作，硬件软件功能以及网络链接信息（IP地址、端口、网络协议等）。
 
-Our products, websites, and services are primarily intended for adults. Children are not allowed to create their own user account without the consent of parents or guardians. Where a child’s personal data is collected with parental consent, we will only use or disclose this data if applicable laws and regulations permit it, if explicit permission is given by parents or guardians, or if it is necessary to protect the child.
+4. 我们从云市场合作伙伴（以下简称“云市场”）或第三方合法获得的个人数据。在适用的法律法规允许的范围内，我们可能会从公开和商业渠道获取您的个人数据。
 
-If children provide us with their personal data without their parental consent, the parents or guardians can contact us to stop the collection, use, or disclose of their personal data.
+我们的许多产品或服务都需要个人数据才能运营。如果您选择不提供运营所需的数据，则无法使用该产品或服务。例如，如果您未在我们的网站或云市场上注册账户并提交您的个人数据，则无法购买我们的产品或服务。在其他一些情况下，如果提供数据是可选的，并且您选择不提交个人数据，您可能无法使用产品或服务的某些功能，例如个性化，但这不会影响您使用我们提供的其他产品或服务。
 
-If we learn that it has collected a child’s personal data without first obtaining verifiable parental consent, we will take steps to delete the data within the shortest possible time period.
+### 非个人数据
 
-**Third Party Providers and Their Services**
+非个人数据是指不能用于识别个人的数据。例如，我们可能会收集汇总的统计数据，例如网站的访问者数量。我们收集这些数据以了解人们如何使用我们的网站、产品和服务。借此，我们能够改进产品或服务，以更好地满足用户的需求。我们可能会自行决定出于其他目的收集、使用、处理、传输或披露非个人数据。
 
-To improve your service experience, you may be served content or web links from third parties other than us. We do not have control over such third parties. You can choose whether or not to access or use links, content, products, and services offered by third parties.
+我们努力将您的个人数据和非个人数据隔离，并单独使用。如果非个人数据掺杂了个人数据，则将其视为个人数据。
 
-We have no control over the privacy and data protection policies of third parties, which are not governed by this Statement. Before submitting your personal data to third parties, please refer to their respective privacy protection policies.
 
-**How Your Personal Data Is Transferred Internationally**
+## 如何处理您的个人数据
 
-In order to provide or improve services to you, we store your personal data in countries/regions where Websoft9, Websoft9 associated companies, or Websoft9’s service providers or subcontractors are located. This means your personal data may be transferred to countries or regions where you are located, or jurisdictions which are outside the places where we collect your personal data, and be accessed and stored in the jurisdictions. These jurisdictions may have different data protection laws. In such cases, we will ensure that an adequate level of protection is afforded to your data as required by applicable laws and regulations where the data is located, as well as this Statement.
+除了以下情形，我们不会将您的个人数据用于其他目的：
 
-**How to contact us**
+1. 创建账户。
 
-If you have any questions or concerns about our Privacy Policy or if you want to exercise your rights, please send an email to legal@websoft9.com
+2. 实现您的交易或服务请求，包括履行订单；交付、激活或验证产品或服务；应您的要求进行变更或者提供您请求的信息（例如产品或服务的营销资料、白皮书）；以及提供技术支持。
 
-**Online Privacy Policy Updates**
+3. 与您联系；向您发送您可能感兴趣的产品和服务的信息；邀请您参与网久软件活动（包括促销活动）、市场调查或满意度调查；或向您发送营销信息。如果您不想接收此类信息，则可以随时退订（请参阅5.如何访问或控制您的个人数据）。
 
-We may make changes to our privacy policy from time to time. Please review our policies regularly as updated policies will apply to your future use of our Services.
+4. 向您发送重要通知。
+
+5. 为您提供个性化用户体验和个性化内容。
+
+6. 开展内部审计、数据分析和研究，改善我们的产品和服务。
+
+7. 分析业务运营效率并衡量市场份额。
+
+8. 在您选择向我们发送错误详情的情况下排查错误。
+
+9. 保护我们产品、服务和用户的安全，执行与改善我们的防损和反欺诈计划。
+
+10. 遵从和执行适用的法律要求或相关的行业标准。
+
+我们不会向第三方披露个人数据，除了以下情形：
+
+1. 根据适用法律法规，披露是必须的。
+
+2. 适当情形下，我们可能会在最有限的范围内披露您的个人数据，以保护网久软件、网久软件用户和公众的权利或财产。例如，当我们认为披露对于防止或保护网络威胁、欺诈、人身伤害或财务损失是必要的或适当的，或当它与涉嫌或实际非法活动的调查有关的。
+
+3. 我们可能会将您的个人数据向我们的关联公司、分公司、服务提供商、分包商、合作伙伴或公司接替者披露，以供它们为您提供交易支持、服务支持或安全支持。在该情形下，我们确保这些公司应当采用与本声明同等的个人数据保护标准，并且不应单将个人数据用于其他目的。
+
+4. 我们可能会根据您的同意和指示将您的个人数据披露给第三方。
+
+我们仅在适用法律法规允许的范围内并根据本声明披露您的个人数据。除非您另行同意或本声明特别规定，我们不会向任何不相关的第三方提供、出售和出租您的个人数据。
+
+## 如何使用Cookies
+
+为确保网站正常运转，我们有时会在计算机或移动设备上存储 Cookie 的小数据文件。Cookie 是一种网络服务器存储在计算机或移动设备上的纯文本文件。Cookie 的内容只能由创建它的服务器检索或读取。每个 Cookie 对您的网络浏览器或移动应用程序都是唯一的。Cookie 通常包含标识符、站点名称以及一些号码和字符。借助于 Cookie，网站能够存储用户偏好等数据。
+
+我们启用Cookie的目的与大多数网站或互联网服务提供商启用 Cookie 的目的一样，即改善用户体验。具体而言，有以下目的：
+
+1. 借助于 Cookie，网站能够保存设置，例如计算机或移动设备的语言、字体大小和其他浏览偏好。这意味着，用户无需在每次访问时重新配置用户偏好设置。
+
+2. 我们可能会收集网久软件广告的数据，例如在网久软件网站上广告弹出的次数，以及在其它网站上广告被点击的情况。
+
+3. 认证。当您访问网久软件网站时，我们会为您生成一个单独的ID，以标识您的身份。如果网站不使用具有该功能的 Cookie，那么在用户每一次打开网页时，该网站都会将其视为新访客。例如，如果您登录网久软件网站后转到另一个网页，网久软件网站就不会识别出您，而您会被视为新访客。
+
+4. 统计分析。例如我们使用Cookie以统计用户访问数量，以及了解您的访问来源。
+
+5. 安全。我们使用Cookie保障网站运作安全。
+
+其它第三方会将Cookie设置在我们网站上，例如谷歌、百度。它们使用Cookie接收IP地址、您浏览器配置相关的信息和访问信息，但不收集您的个人身份信息。它们使用Cookie以了解您和网站的互动情况。您可以通过访问它们的网站以了解这些第三方如何适用Cookie。
+
+您可根据自己的偏好管理或删除 Cookie。有关详情，请参见AboutCookies.org。您可以清除计算机上保存的所有 Cookie，大部分网络浏览器都设有阻止 Cookie 的功能。但如果您这么做，则需要在每一次访问我们的网站时亲自更改用户设置。如需详细了解如何更改浏览器设置，请访问以下链接：
+
+* [Internet Explorer](https://support.microsoft.com/en-us/help/260971/description-of-cookies)
+* [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB&p=cpn_cookies)
+* [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectlocale=en-US&redirectslug=Cookies)
+* [Safari](https://support.apple.com/kb/PH5042?locale=en_US)
+* [Opera](https://www.opera.com/o/ie-simple)
+
+
+## 如何保护您的个人数据
+
+我们重视个人数据的安全。我们采用适当的物理、管理和技术保障措施来保护您的个人数据不被未经授权访问、披露、使用、修改、损坏或丢失。例如，我们会使用加密技术确保数据的机密性；我们会使用保护机制防止数据遭到恶意攻击；我们会部署访问控制机制，确保只有授权人员才可访问个人数据；以及我们会举办安全和隐私保护培训，加强员工对于保护个人数据重要性的认识。我们会尽力保护您的个人数据，但是请注意任何安全措施都无法做到无懈可击。您可以在网久软件安全中找到有关安全合规的更多详细信息。
+
+我们将会在达成本声明所述目的所需的期限内保留您的个人数据，除非按照法律要求或您的要求需要延长保留期。基于不同的场景、产品及服务，数据的存储期可能会有所不同，我们用于确定存留期的标准包括：完成该业务目的需要留存个人数据的时间，包括提供产品和服务，依据法律要求维护相应的交易及业务记录，保证系统、产品和服务的安全，应对可能的用户查询或投诉、问题定位等；用户是否同意更长的留存期间；法律、合同等是否有保留数据的特殊要求等。只要您的账户是为您提供服务之必须，我们都将保留您的账户信息。您也可以选择注销您的账号，在您注销账号后，我们会停止基于该账号提供产品和服务，并在无特殊法律要求的情况下，删除您相应的个人数据。     
+
+尽管我们保护您的个人数据，但您有责任妥善保管您的个人数据，包括账户和密码。
+
+如果您发现其他人未经您的许可使用您的账户或密码登录本网站，请及时通知我们。您有权要求我们暂停未经授权对您的账户或密码的使用。
+
+如发生个人数据泄露等安全事件，我们将依照适用的法律法规的要求，以网站公告或邮件的方式，向您或主管机关告知数据泄露事件的相关信息。如果因完全归因于网久软件的原因造成您的个人数据泄露，在网久软件确认相关数据泄露事件及原因后，我们将尽合理努力不迟延地向您发送数据泄露的通知。
+
+
+## 如何访问或控制您的个人数据
+
+您应确保提交的所有个人数据都准确无误。我们会尽力维护个人数据的准确和完整，并及时更新这些数据。
+
+根据适用的法律法规，您可能（1）有权访问我们持有您的任何个人数据; （2）要求我们更新或更正您的个人数据;（3）要求我们删除您的个人数据；（4）拒绝或限制我们使用您的个人数据；以及（5）获取个人数据副本。如果您需要我们协助行使上述权利，请通过“10.如何联系网久软件”联系我们。一般情形下，我们会在一个月内予以响应，除非适用的法律法规要求。结合您请求的复杂度，该时间可能延迟两个月，但我们会在收到请求的一个月内告知延迟原因。请注意在某些情况下，您的请求将被驳回，包括但不限于您的身份无法被验证，或您提出的要求超出权利范围，或其他法律法规规定的情形。我们将通过本声明第10点的邮箱书面告知您提出的请求被驳回、被驳回的原因及相关依据。如果您发现任何违反本声明的行为，您也可以向有管辖权数据保护机构或其他官员提出疑虑或投诉。
+
+以下是您控制我们收集的个人数据的一些说明：
+
+* 账户信息：如果您要添加或更新与您的账户相关的个人数据，请访问网站登录更新信息
+
+* Cookies：关于Cookies的管理，请参阅本文档如何使用Cookies。
+
+* 消息：请登录网站进行消息接收
+
+
+## 云服务商（云市场）及其服务
+
+为提升您的服务体验，您可能会收到来自网久软件之外的第三方（通常是云市场）提供的内容或网络链接。我们对此类第三方无控制权。您可选择是否访问或使用第三方提供的链接、内容、产品和服务。
+
+我们无法控制第三方的隐私和数据保护政策，此类第三方不受到本声明的约束。在向第三方提交个人数据之前，请参见第三方的隐私保护政策。
+
+## 您的个人数据如何跨境转移
+
+为了给您提供服务，我们收集您的个人数据可能存储在网久软件及其关联公司、服务提供商/分包商所在国家/地区。这意味着，您的个人数据可能传送至您所在国家或地区，或我们收集个人数据所在地的境外，并在境外被访问和存储。不同国家或地区可能会有不同的数据保护法律。在此类情况下，我们会采取措施确保收集的个人数据依据本声明和数据所在地适用法律的要求进行处理。
+
+对于中国大陆的用户，您的个人信息将被存储于中国大陆境内的服务器。
+
+## 如何更新本声明
+
+我们可能会根据我们的服务或数据处理的变化不时更新或修改本声明。如果我们更新本声明，我们会将最新版隐私声明发布在网久软件网站上，并自发布时立即生效。建议您定期查看本声明以了解任何更改。如果我们对本声明做出任何重大更改（收集的个人数据范围和使用目的变更），我们将通过适当渠道通知您，并获取您的同意。
+
+
+## 如何联系网久软件
+
+如果您想联系我们，请通过以下方式与我们联系：
+
+联系方式：help@huawei.com
+
+
+
+最近更新时间：2019年12月13日

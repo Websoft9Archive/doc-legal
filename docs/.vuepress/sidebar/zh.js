@@ -1,6 +1,6 @@
 module.exports = [
   {
-    title: '网站',
+    title: '通用',
     collapsable: false,
     children: [
       '/zh/',
@@ -16,6 +16,7 @@ module.exports = [
     children: [
       '/zh/eula',
       '/zh/agreement',
+      '/zh/product-license',
     ]
   },
 
@@ -23,6 +24,7 @@ module.exports = [
     title: '合作伙伴',
     collapsable: false,
     children: [
+      '/zh/partner-overview',
       '/zh/partner-channel',
       '/zh/partner-tech',
       '/zh/partner-iaas',
