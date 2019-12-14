@@ -7,6 +7,7 @@ module.exports = [
       '/zh/privacy',
       '/zh/site-terms',
       '/zh/trademark',
+      '/zh/marketplace',
     ]
   },
 
@@ -21,7 +22,7 @@ module.exports = [
   },
 
   {
-    title: '合作伙伴',
+    title: '合作协议',
     collapsable: false,
     children: [
       '/zh/partner-overview',
