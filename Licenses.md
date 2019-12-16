@@ -75,8 +75,8 @@
 - https://github.com/drupal/drupal/blob/8.8.x/core/LICENSE.txt
 
 #### Erlang
-- ErlPL 1.1
-- https://www.erlang.org/EPLICENSE
+- Apache-2.0
+- https://github.com/erlang/otp/blob/master/LICENSE.txt
 
 #### ERPNext
 - GPL v3
@@ -197,6 +197,10 @@
 #### OpenJDK
 - GPL v2
 - http://openjdk.java.net/legal/gplv2+ce.html
+
+#### OpenSSL
+- Apache-2.0
+- https://github.com/openssl/openssl/blob/master/LICENSE
 
 #### Oracle Linux
 - GPL v2
