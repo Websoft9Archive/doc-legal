@@ -74,6 +74,10 @@
 - GPL v2
 - https://github.com/drupal/drupal/blob/8.8.x/core/LICENSE.txt
 
+#### Erlang
+- ErlPL 1.1
+- https://www.erlang.org/EPLICENSE
+
 #### ERPNext
 - GPL v3
 - https://github.com/frappe/erpnext/blob/develop/license.txt
