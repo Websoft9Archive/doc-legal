@@ -236,7 +236,7 @@
 
 #### RabbitMQ Server
 - MPL-1.1
-- https://github.com/rabbitmq/rabbitmq-server/blob/bcc93dff559c11bac7df97ed402bd762582ddc49/LICENSE-MPL-RabbitMQ
+- https://github.com/rabbitmq/rabbitmq-server/blob/master/LICENSE-MPL-RabbitMQ
 
 #### Redis
 - BSD 3-clause
