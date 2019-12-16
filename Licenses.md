@@ -228,7 +228,7 @@
 
 #### PostgreSQL
 - PostgreSQL License
-- https://www.postgresql.org/about/licence/
+- https://github.com/postgres/postgres/blob/master/COPYRIGHT
 
 #### Prestashop
 - OSL-3.0 & AFL-3.0
