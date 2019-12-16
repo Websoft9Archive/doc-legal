@@ -269,7 +269,7 @@
 - ECL-2.0
 - https://github.com/sakaiproject/sakai/blob/master/LICENSE
 
-#### Scratch
+#### Scratch-GUI
 - BSD 3-Clause
 - https://github.com/LLK/scratch-gui/blob/develop/LICENSE
 
