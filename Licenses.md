@@ -269,6 +269,10 @@
 - ECL-2.0
 - https://github.com/sakaiproject/sakai/blob/master/LICENSE
 
+#### Scratch
+- BSD 3-Clause
+- https://github.com/LLK/scratch-gui/blob/develop/LICENSE
+
 #### Seafile
 - AGPL v3
 - https://github.com/haiwen/seafile/blob/master/LICENSE.txt
