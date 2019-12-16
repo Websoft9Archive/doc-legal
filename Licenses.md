@@ -251,6 +251,7 @@
 - https://redislabs.com/legal/licenses/
 - https://redis.io/topics/license
 - https://opensource.org/licenses/BSD-3-Clause
+- https://github.com/antirez/redis/blob/unstable/COPYING
 
 #### Redmine
 - GPL v2
