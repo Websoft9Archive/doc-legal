@@ -22,6 +22,10 @@
 - Apache-2.0
 - https://github.com/apache/incubator-superset/blob/master/LICENSE.txt
 
+#### Apache Tomcat
+- Apache-2.0
+- https://github.com/apache/tomcat/blob/master/LICENSE
+
 #### Apache Zookeeper
 - Apache-2.0
 - https://github.com/apache/zookeeper/blob/master/LICENSE.txt
@@ -242,6 +246,11 @@
 - OSL-3.0 & AFL-3.0
 - https://github.com/PrestaShop/PrestaShop/blob/develop/docs/licences/LICENSE.txt
 
+#### Python
+- PSF License v2
+- https://docs.python.org/3/license.html
+- https://github.com/python/cpython/blob/master/LICENSE
+
 #### RabbitMQ Server
 - MPL-1.1
 - https://github.com/rabbitmq/rabbitmq-server/blob/master/LICENSE-MPL-RabbitMQ
@@ -305,10 +314,6 @@
 - Modified BSD license
 - https://github.com/edgewall/trac/blob/trunk/COPYING
 
-#### Apache Tomcat
-- Apache-2.0
-- https://github.com/apache/tomcat/blob/master/LICENSE
-
 #### Vtiger CRM
 - VPL 1.1
 - https://www.vtiger.com/open-source-crm/vtiger-public-license/
@@ -330,5 +335,9 @@
 - https://github.com/easysoft/zentaopms/blob/master/COPYING
 
 #### Zentao
+- ZPL 1.2
+- https://github.com/easysoft/zentaopms/blob/master/COPYING
+
+#### WAMPServer
 - ZPL 1.2
 - https://github.com/easysoft/zentaopms/blob/master/COPYING
