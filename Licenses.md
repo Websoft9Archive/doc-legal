@@ -339,5 +339,5 @@
 - https://github.com/easysoft/zentaopms/blob/master/COPYING
 
 #### WAMPServer
-- ZPL 1.2
-- https://github.com/easysoft/zentaopms/blob/master/COPYING
+- GPL
+- https://opensource.org/licenses/gpl-license
