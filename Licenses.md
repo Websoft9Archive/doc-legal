@@ -1,3 +1,15 @@
+#### .NET Core
+- MIT
+- https://github.com/dotnet/core/blob/master/LICENSE.TXT
+
+#### .NET Framework (A read only Subset)
+- MIT
+- https://github.com/microsoft/referencesource/blob/master/LICENSE.txt
+
+#### ASP.NET Core
+- Apache-2.0
+- https://github.com/aspnet/AspNetCore/blob/master/LICENSE.txt
+
 #### Adminmongo
 - MIT
 - https://github.com/mrvautin/adminMongo/blob/master/LICENSE
