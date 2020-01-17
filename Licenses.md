@@ -97,6 +97,10 @@
 - Apache-2.0
 - https://github.com/erlang/otp/blob/master/LICENSE.txt
 
+#### EspoCRM
+- GPL v3
+- https://github.com/espocrm/espocrm/blob/master/LICENSE.txt
+
 #### ERPNext
 - GPL v3
 - https://github.com/frappe/erpnext/blob/develop/license.txt
