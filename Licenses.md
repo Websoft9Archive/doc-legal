@@ -126,6 +126,10 @@
 - GPL v2
 - https://github.com/haproxy/haproxy/blob/master/LICENSE
 
+#### iRedMail
+- GPL v3
+- http://www.gnu.org/licenses/gpl-3.0.en.html
+
 #### Java
 - GPL v2
 - http://openjdk.java.net/legal/gplv2+ce.html
