@@ -267,6 +267,10 @@
 - MPL-1.1
 - https://github.com/rabbitmq/rabbitmq-server/blob/master/LICENSE-MPL-RabbitMQ
 
+#### Ranzhi
+- Z PUBLIC LICENSE 1.2
+- https://www.ranzhi.org/book/ranzhi/63.html
+
 #### Redis
 - BSD 3-clause
 - https://redislabs.com/legal/licenses/
