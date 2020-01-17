@@ -82,6 +82,9 @@
 - GPL v2
 - https://github.com/discourse/discourse/blob/master/LICENSE.txt
 
+#### Discuz
+- https://gitee.com/ComsenzDiscuz/DiscuzX/blob/master/readme/license.txt
+
 #### Docker
 - Apache-2.0
 - https://github.com/docker/docker-ce/blob/master/components/engine/LICENSE
