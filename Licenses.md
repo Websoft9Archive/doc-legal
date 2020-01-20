@@ -272,6 +272,13 @@
 - BSD License
 - https://github.com/parse-community/parse-server/blob/master/LICENSE
 
+#### Pear
+- BSD-2-Clause
+- https://opensource.org/licenses/bsd-license.php
+
+#### PECL
+- https://pecl.php.net/copyright.php
+
 #### Phabricator
 - Apache-2.0
 - https://github.com/phacility/phabricator/blob/master/LICENSE
