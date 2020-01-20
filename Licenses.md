@@ -58,6 +58,10 @@
 - 宝塔开源许可协议
 - https://github.com/aaPanel/BaoTa/blob/master/license.txt
 
+#### CakePHP
+- MIT
+- https://github.com/cakephp/cakephp/blob/master/LICENSE
+
 #### CentOS
 - GPL v2
 - https://github.com/CentOS/CentOS-Dockerfiles/blob/master/LICENSE
@@ -65,6 +69,10 @@
 #### Concrete5
 - MIT
 - https://github.com/concrete5/concrete5/blob/develop/LICENSE.TXT
+
+#### CodeIgniter
+- MIT
+- https://github.com/bcit-ci/CodeIgniter/blob/develop/license.txt
 
 #### Coder
 - MIT
@@ -153,6 +161,10 @@
 #### KodCloud
 - GPL v3
 - https://www.gnu.org/licenses/gpl-3.0.en.html
+
+#### Laravel
+- MIT
+- https://opensource.org/licenses/MIT
 
 #### Magento Community
 - OSL 3.0
@@ -313,6 +325,10 @@
 - AGPL v3
 - https://github.com/haiwen/seafile/blob/master/LICENSE.txt
 
+#### Smarty
+- LGPL V3
+- https://github.com/smarty-php/smarty/blob/master/LICENSE
+
 #### SQL Server Express 2008
 - https://www.microsoft.com/en-us/download/details.aspx?id=29693
 
@@ -328,6 +344,10 @@
 #### SuiteCRM
 - AGPL v3
 - https://github.com/salesagility/SuiteCRM/blob/master/LICENSE.txt
+
+#### Symfony
+- MIT
+- https://github.com/symfony/symfony/blob/master/LICENSE
 
 #### Tensorflow
 - Apache-2.0
@@ -364,6 +384,9 @@
 #### Zentao
 - ZPL 1.2
 - https://github.com/easysoft/zentaopms/blob/master/COPYING
+
+#### Zend Framework
+- https://github.com/zendframework/zendframework/blob/master/LICENSE.md
 
 #### WAMPServer
 - GPL
