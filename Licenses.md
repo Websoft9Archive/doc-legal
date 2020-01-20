@@ -113,6 +113,10 @@
 - GPL v3
 - https://github.com/frappe/erpnext/blob/develop/license.txt
 
+#### FastCGI
+- LGPL V3
+- https://github.com/eddic/fastcgipp/blob/master/COPYING
+
 #### Ghost
 - MIT
 - https://github.com/TryGhost/Ghost/blob/master/LICENSE
@@ -137,6 +141,9 @@
 #### HAProxy
 - GPL v2
 - https://github.com/haproxy/haproxy/blob/master/LICENSE
+
+#### ImageMagick
+- https://github.com/ImageMagick/ImageMagick/blob/master/LICENSE
 
 #### iRedMail
 - GPL v3
@@ -194,6 +201,10 @@
 - AGPL v3
 - https://github.com/metabase/metabase/blob/master/LICENSE.txt
 
+#### ModSecurity
+- Apache 2.0
+-https://github.com/SpiderLabs/ModSecurity/blob/v3/master/LICENSE
+
 #### MongoDB Community
 - SSPL
 - https://github.com/mongodb/mongo/blob/master/LICENSE-Community.txt
@@ -221,6 +232,10 @@
 #### Node.js
 - https://github.com/nodejs/node/blob/master/LICENSE
 
+#### OAuth
+- Apache 2.0
+- https://github.com/request/oauth/blob/master/LICENSE
+
 #### Odoo Community Edition
 - LGPL v3
 - https://github.com/odoo/odoo/blob/13.0/LICENSE
@@ -236,6 +251,10 @@
 #### OpenJDK
 - GPL v2
 - http://openjdk.java.net/legal/gplv2+ce.html
+
+#### Openldap
+- The OpenLDAP Public License
+- https://github.com/openldap/openldap/blob/master/LICENSE
 
 #### OpenSSL
 - Apache-2.0
@@ -329,6 +348,9 @@
 - LGPL V3
 - https://github.com/smarty-php/smarty/blob/master/LICENSE
 
+#### SQLite
+- https://sqlite.org/copyright.html
+
 #### SQL Server Express 2008
 - https://www.microsoft.com/en-us/download/details.aspx?id=29693
 
@@ -368,6 +390,14 @@
 #### Wordpress
 - GPL v2
 - https://github.com/WordPress/WordPress/blob/master/license.txt
+
+#### Xcache
+- BSD 3-Clause
+- https://github.com/lighttpd/xcache/blob/master/COPYING
+
+#### xDebug
+- xDebug License V1.02
+- https://github.com/xdebug/xdebug/blob/master/LICENSE
 
 #### YouTrack
 - Apache-2.0
