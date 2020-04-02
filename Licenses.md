@@ -316,10 +316,6 @@
 - MPL-1.1
 - https://github.com/rabbitmq/rabbitmq-server/blob/master/LICENSE-MPL-RabbitMQ
 
-#### Ranzhi
-- Z PUBLIC LICENSE 1.2
-- https://www.ranzhi.org/book/ranzhi/63.html
-
 #### Redis
 - BSD 3-clause
 - https://redislabs.com/legal/licenses/
@@ -415,8 +411,8 @@
 - https://github.com/zabbix/zabbix/blob/master/COPYING
 
 #### Zdoo
-- ZPL 1.2
-- https://github.com/easysoft/zentaopms/blob/master/COPYING
+- ZENTAO OPEN SOFTWARE LICENSE 1.0
+- https://www.zdoo.com/book/zdoo/63.html
 
 #### Zentao
 - ZPL 1.2
