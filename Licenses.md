@@ -17,6 +17,8 @@
 #### Apache
 - Apache-2.0
 - https://www.apache.org/licenses/LICENSE-2.0
+- https://www.couchbase.com/community-license-agreement
+- https://www.couchbase.com/licensing-and-support-faq
 
 #### Apache ActiveMQ
 - Apache-2.0
