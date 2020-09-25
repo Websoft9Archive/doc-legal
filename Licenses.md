@@ -242,9 +242,13 @@
 - LGPL v3
 - https://github.com/odoo/odoo/blob/13.0/LICENSE
 
-#### Onlyoffice document server
+#### Onlyoffice document server Community
 - AGPL v3
 - https://github.com/ONLYOFFICE/DocumentServer/blob/master/LICENSE.txt
+
+#### Onlyoffice Community Edition
+- AGPL v3
+- https://help.onlyoffice.com/products/files/doceditor.aspx?fileid=4373122&doc=cVFJN0ZlaHowSTg0aWQ5YWNwWHQyamRrbFY2M0tNOXRkSkhUVVJWeTlhZz0_IjQzNzMxMjIi0&_ga=2.115670274.545354037.1601018402-740760372.1601018402
 
 #### OpenCart
 - GPL v3
