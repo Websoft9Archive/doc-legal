@@ -319,7 +319,7 @@
 - https://github.com/python/cpython/blob/master/LICENSE
 
 #### RabbitMQ Server
-- MPL-1.1
+- MPL-2.0
 - https://github.com/rabbitmq/rabbitmq-server/blob/master/LICENSE-MPL-RabbitMQ
 
 #### Redis
