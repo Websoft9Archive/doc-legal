@@ -311,7 +311,7 @@
 
 #### Prestashop
 - OSL-3.0 & AFL-3.0
-- https://github.com/PrestaShop/PrestaShop/blob/develop/docs/licences/LICENSE.txt
+- https://github.com/PrestaShop/PrestaShop/blob/develop/docs/licenses/LICENSE.txt
 
 #### Python
 - PSF License v2
