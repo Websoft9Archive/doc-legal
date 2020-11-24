@@ -62,6 +62,10 @@
 - MIT
 - https://github.com/cakephp/cakephp/blob/master/LICENSE
 
+#### CanvasLMS
+- AGPL v3
+- https://github.com/instructure/canvas-lms/blob/master/LICENSE
+
 #### CentOS
 - GPL v2
 - https://github.com/CentOS/CentOS-Dockerfiles/blob/master/LICENSE
