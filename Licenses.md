@@ -141,8 +141,10 @@
 - https://github.com/grafana/grafana/blob/master/LICENSE
 
 #### Graylog
-- SSPL v1
+- GPL v3 (Before Graylog 4.0)
+- SSPL v1 (From Graylog 4.0)
 - https://github.com/Graylog2/graylog2-server/blob/master/LICENSE
+- https://www.graylog.org/post/graylog-v4-0-licensing-sspl
 
 #### HAProxy
 - GPL v2
