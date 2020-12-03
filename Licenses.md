@@ -141,8 +141,8 @@
 - https://github.com/grafana/grafana/blob/master/LICENSE
 
 #### Graylog
-- GPL v3
-- https://github.com/Graylog2/graylog2-server/blob/master/COPYING
+- SSPL v1
+- https://github.com/Graylog2/graylog2-server/blob/master/LICENSE
 
 #### HAProxy
 - GPL v2
