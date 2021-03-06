@@ -343,6 +343,10 @@
 - AGPL
 - https://reportserver.net/en/agpl-license/
 
+#### RethinkDB
+- Apache-2.0
+- https://github.com/rethinkdb/rethinkdb/blob/next/LICENSE
+
 #### Rocket.Chat
 - MIT
 - https://github.com/RocketChat/Rocket.Chat/blob/develop/LICENSE
