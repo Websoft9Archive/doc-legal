@@ -88,6 +88,10 @@
 - https://www.couchbase.com/community-license-agreement
 - https://www.couchbase.com/licensing-and-support-faq
 
+#### CouchDB
+- Apache-2.0
+- https://www.apache.org/licenses/LICENSE-2.0
+
 #### Countly
 - AGPL v3 with modified Section 7
 - https://github.com/Countly/countly-server/blob/master/LICENSE
