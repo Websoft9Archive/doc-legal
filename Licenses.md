@@ -438,6 +438,10 @@
 - ZPL 1.2
 - https://github.com/easysoft/zentaopms/blob/master/COPYING
 
+#### ZSITE
+- Z PUBLIC LICENSE 1.2
+- http://zpl.pub/page/zplv12.html
+
 #### Zend Framework
 - https://github.com/zendframework/zendframework/blob/master/LICENSE.md
 
