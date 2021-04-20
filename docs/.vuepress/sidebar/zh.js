@@ -21,8 +21,8 @@ module.exports = [
       '/zh/society',
       '/zh/society-opensource',
       '/zh/society-job',
-      '/zh/society-natural',
       '/zh/society-civilization',
+      '/zh/society-natural',
     ]
   },
 
