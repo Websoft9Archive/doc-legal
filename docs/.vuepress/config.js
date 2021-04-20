@@ -14,7 +14,7 @@ locales: {
     },
     '/zh/': {
       lang: 'zh-CN',
-      title: '法律声明',
+      title: '法律、合规与责任',
       description: '隐私、用户许可协议、开源协议、商标等法律条款汇总'
     }
 },

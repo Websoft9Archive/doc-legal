@@ -1,43 +1,45 @@
 # 网站条款
 
-The Websoft9 site at https://www.websoft9.com (this “Site”) is operated by Websoft9 Inc. The following terms and conditions, as updated from time to time by Websoft9, apply to all visitors to this Site. You should carefully read these terms and conditions before using this Site. If you do not agree to these terms and conditions, please do not use this Site. By accessing, browsing or using this Site and the services provided herein, you agree to these terms and conditions.
+本处所指的网站（简称”本网站“）是由网久软件经营的面向互联网的公开站点，域名为：websoft9.com, websoft9.cn 的所有网站通用下面的条款和条件。  
 
-**Authorized Access**
+访问和使用本网站之前，您应该仔细阅读这些条款和条件。如果您不同意这些条款和条件，请不要使用网站。通过访问，浏览或使用本网站和此处提供的服务，即表示您同意这些条款和条件。
 
-In consideration of your agreement to the terms and conditions contained herein, Websoft9 grants you a personal, non-exclusive, non-transferable license to access and use this Site. You may not otherwise copy, reproduce, retransmit, distribute, publish, commercially exploit or otherwise transfer any content except with express written consent of Websoft9.
+**授权访问**
 
-**Your Account**
+考虑到您同意此处包含的条款和条件，网久软件授予您个人，非专有，不可转让的许可，以访问和使用本网站。未经网久软件明确书面同意，您不得以其他方式复制，复制，再传播，分发，发布，商业利用或以其他方式转让任何内容。
 
-If any of the services provided or made available on this Site require you to create an account, you must complete the registration process by providing us with complete and accurate information. You shall maintain the confidentiality of your account and information stored therein, including your password. You are responsible for any activities that occur under your account, including those occur due to your failing to keep your account information secure and confidential. You agree to notify Websoft9 immediately of any unauthorized access or use of your account or password, or any other breach of security.
+**您的帐户**
 
-**Your Content**
+如果在本网站上提供或提供的任何服务需要您创建帐户，则必须通过向我们提供完整而准确的信息来完成注册过程。您应对您的帐户及其中存储的信息（包括密码）保持机密。您应对您帐户下发生的任何活动负责，包括由于未能确保帐户信息安全和机密而发生的活动。您同意立即将任何未经授权的访问或使用您的帐户或密码或任何其他违反安全性的行为通知网久软件。
 
-You may post or upload reviews, comments and other content to this Site (“Your Content”). You will ensure that Your Content will not violate the terms and conditions herein and applicable laws and regulations, and not infringe any third party’s rights. You are solely responsible for the legality, accuracy, integrity and reliability of Your Content. You are solely responsible for securing and maintaining any required notice, consent or authorization related to your provision of and our processing of Your Content. Websoft9 will not assume any obligations and liabilities with related to Your Content, unless otherwise required by the applicable laws. Although Websoft9 does not monitor Your Content posted on this Site, Websoft9 reserves the right but not obligated to remove any of Your Content from this Site, block access or take other actions as necessary with respect to Your Content at its discretion.
+**您的内容**
 
-**No Unlawful or Prohibited Use**
+您可以在网站上发布或上传评论，评论和其他内容（“您的内容”）。您将确保您的内容不会违反此处的条款和条件以及适用的法律和法规，并且不会侵犯任何第三方的权利。您对内容的合法性，准确性，完整性和可靠性全权负责。您全权负责确保和维护与您提供和我们对您的内容的处理有关的任何必需的通知，同意或授权。除非适用法律另有要求，否则网久软件将不承担与您的内容有关的任何义务和责任。尽管网久软件不会监视发布在此站点上的“您的内容”，但网久软件保留权利但无义务从此站点删除您的任何内容，
 
-·       You may not use this Site for any purpose or in any manner that violates any applicable laws or regulations.
+**禁止非法或禁止使用**
 
-·       You may not use this Site to post or send any infringing, threatening, defamatory or libelous material.
+* 您不得出于任何目的或以任何方式违反任何适用法律或法规的目的来使用本网站。
 
-·       You may not use this Site to disseminate unsolicited advertising or promotional material of any kind.
+* 您不得使用本网站发布或发送任何侵权，威胁，诽谤或诽谤性材料。
 
-·       You may not damage, disable, overburden, or impair any Websoft9 services, or any networks connected to any Websoft9 services.
+* 您不得使用本网站传播任何形式的未经请求的广告或促销材料。
 
-·       You may not bypass any measures Websoft9 may use to prevent or restrict access to this Site.
+* 您不得损坏，禁用，负担过多或损害任何网久软件服务或与任何网久软件服务连接的任何网络。
 
-**Intellectually Property Rights**
+* 您不能绕过网久软件用来阻止或限制对此站点的访问的任何措施。
 
-This Site and its contents are owned by Websoft9 or its licensors and are protected by law, including but not limited to copyright and trademark laws. Certain contents, such as copyrighted materials and trademarks, are authorized by third parties for use. Except as allowed by law (such as fair use) or as expressly permitted in connection with specific content, this Site and its contents may not be reproduced, modified, distributed, displayed, performed, or used in any way without the prior written consent of Websoft9 or it licensors.
+**知识产权**
 
-**Disclaimer of Warranties**
+本网站及其内容归网久软件或其许可方所有，并受法律保护，包括但不限于版权法和商标法。某些内容（例如，受版权保护的材料和商标）已被第三方授权使用。除非法律允许（例如合理使用）或与特定内容明确相关的许可，否则未经本网站的事先书面同意，不得以任何方式复制，修改，分发，展示，执行或使用本网站及其内容。 网久软件或其许可人。
 
-THE USE OF THIS SITE IS SOLELY AT YOUR OWN RISK. ALL THE CONTENTS ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. Websoft9DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESSED OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT WITH RESPECT TO THIS SITE AND ALL CONTENT PROVIDED ON OR THROUGH THIS SITE.
+**免责声明**
 
-**Limitation of Liability**
+使用此网站的风险完全由您自己承担。所有内容均按“原样”和“可用”提供。网久软件不提供任何形式的明示或暗示的保证，包括但不限于对本网站和本网站或所提供内容的适销性，特定目的适用性和非侵权性的暗示保证。
 
-Websoft9 shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including without limitation, damages for loss of profits, goodwill, use, data loss, or other losses (even if advised of the possibility of such damages) resulting from OR relating to your use of this Site. tHE mAXIMUM LIABILITY OF Websoft9 ARISING OUT OF OR RELATing TO YOUR USE OF THIS SITE AND UNDER THIS site terms WILL NOT EXCEED $100.00 USD UNLESS OTHERWISE AGREED BY Websoft9 IN WRITTEN IN OTHER SEPARATE AGREEMENTS.
+**责任范围**
 
-**Links to Third-Party Websites**
+网久软件对任何直接，间接，偶发，特殊，结果性或示范性损失，包括但不限于利润损失，商誉，使用，数据丢失或其他损失（即使被告知可能发生的损失）也不承担任何责任。
 
-This Site may contain links to third-party websites. Access to any other websites linked on this Site is at your own risk and Websoft9 is not responsible for the accuracy, completeness, adequacy, and reliability of any information, data, opinion, picture, advice, or statement on these websites. Websoft9 provides these links merely for your convenience and the inclusion of such links does not imply an endorsement, recommendation, promotion, or advertisement.
+**链接到第三方网站**
+
+本网站可能包含指向第三方网站的链接。访问与本网站链接的任何其他网站的风险由您自行承担，网久软件对这些网站上任何信息，数据，意见，图片，建议或声明的准确性，完整性，充分性和可靠性不承担任何责任。网久软件提供这些链接只是为了您的方便，包含这些链接并不意味着认可，推荐，促销或广告。

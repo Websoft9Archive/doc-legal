@@ -1,35 +1,37 @@
 module.exports = [
   {
-    title: '通用',
+    title: '合规',
     collapsable: false,
     children: [
       '/zh/',
       '/zh/privacy',
-      '/zh/site-terms',
       '/zh/trademark',
-      '/zh/marketplace',
+      '/zh/trust-security',
+      '/zh/site-terms',
+      '/zh/license',
+      '/zh/bz',
+
     ]
   },
 
   {
-    title: '产品',
+    title: '社会责任',
     collapsable: false,
     children: [
-      '/zh/eula',
-      '/zh/agreement',
-      '/zh/product-license',
+      '/zh/society',
+      '/zh/society-opensource',
+      '/zh/society-job',
+      '/zh/society-natural',
+      '/zh/society-civilization',
     ]
   },
 
   {
-    title: '合作协议',
+    title: '其他',
     collapsable: false,
     children: [
-      '/zh/partner-overview',
-      '/zh/partner-channel',
-      '/zh/partner-tech',
-      '/zh/partner-iaas',
-      '/zh/partner-isv',
+      '/zh/other-refer',
+      '/zh/other-faq',
     ]
   },
   
