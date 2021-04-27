@@ -141,7 +141,7 @@
 - https://github.com/gogs/gogs/blob/master/LICENSE
 
 #### Grafana
-- Apache-2.0
+- AGPL-3.0
 - https://github.com/grafana/grafana/blob/master/LICENSE
 
 #### Graylog
