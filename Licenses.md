@@ -101,7 +101,11 @@
 - https://github.com/discourse/discourse/blob/master/LICENSE.txt
 
 #### Discuz
-- https://gitee.com/ComsenzDiscuz/DiscuzX/blob/master/readme/license.txt
+- https://gitee.com/Discuz/DiscuzX/blob/master/LICENSE
+
+#### Discuz!Q
+- Apache-2.0
+- https://gitee.com/Discuz/Discuz-Q-uniapp/blob/master/LICENSE
 
 #### Docker
 - Apache-2.0
