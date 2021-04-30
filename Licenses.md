@@ -325,7 +325,7 @@
 - https://github.com/postgres/postgres/blob/master/COPYRIGHT
 
 #### Prestashop
-- OSL-3.0 & AFL-3.0
+- OSL-3.0
 - https://github.com/PrestaShop/PrestaShop/blob/develop/docs/licenses/LICENSE.txt
 
 #### Python
