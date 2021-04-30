@@ -371,11 +371,11 @@
 #### Seafile
 - AGPL v3
 - Github注明：
-- Seafile iOS client: Apache License v2
-- Seafile Android client: GPLv3
-- Desktop syncing client (this repository): GPLv2
-- Seafile Server core: AGPLv3
-- Seahub (Seafile server Web UI): Apache License v2
+ Seafile iOS client: Apache License v2
+ Seafile Android client: GPLv3
+ Desktop syncing client (this repository): GPLv2
+ Seafile Server core: AGPLv3
+ Seahub (Seafile server Web UI): Apache License v2
 - https://github.com/haiwen/seafile/blob/master/LICENSE.txt
 
 #### Smarty
