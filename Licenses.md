@@ -228,6 +228,7 @@
 #### Moodle
 - GPL v3
 - https://github.com/moodle/moodle/blob/master/COPYING.txt
+- https://docs.moodle.org/dev/License
 
 #### MySQL
 - GPL v2
