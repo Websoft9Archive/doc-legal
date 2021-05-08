@@ -247,6 +247,7 @@
 - http://nginx.org/LICENSE
 
 #### Node.js
+- MIT License
 - https://github.com/nodejs/node/blob/master/LICENSE
 
 #### OAuth
