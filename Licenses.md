@@ -260,7 +260,7 @@
 
 #### ONLYOFFICE Docs Community（Starting from version 6.0, Document Server is distributed under a new name - ONLYOFFICE Docs.）
 - AGPL v3
-- https://github.com/ONLYOFFICE/Docker-Docs
+- https://github.com/ONLYOFFICE/Docker-Docs/blob/master/LICENSE.txt
 （- https://github.com/ONLYOFFICE/DocumentServer/blob/master/LICENSE.txt ）
 
 #### ONLYOFFICE Community Edition
