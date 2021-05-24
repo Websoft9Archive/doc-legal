@@ -258,9 +258,10 @@
 - LGPL v3
 - https://github.com/odoo/odoo/blob/13.0/LICENSE
 
-#### ONLYOFFICE document server Community
+#### ONLYOFFICE Docs Community（原ONLYOFFICE document server Community）
 - AGPL v3
-- https://github.com/ONLYOFFICE/DocumentServer/blob/master/LICENSE.txt
+- https://github.com/ONLYOFFICE/Docker-Docs
+（- https://github.com/ONLYOFFICE/DocumentServer/blob/master/LICENSE.txt ）
 
 #### ONLYOFFICE Community Edition
 - AGPL v3
