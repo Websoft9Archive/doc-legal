@@ -10,7 +10,7 @@
 - Apache-2.0
 - https://github.com/aspnet/AspNetCore/blob/master/LICENSE.txt
 
-#### Adminmongo
+#### adminMongo
 - MIT
 - https://github.com/mrvautin/adminMongo/blob/master/LICENSE
 
