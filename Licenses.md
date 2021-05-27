@@ -168,6 +168,7 @@
 #### Java
 - GPL v2
 - http://openjdk.java.net/legal/gplv2+ce.html
+- https://github.com/openjdk/jdk/blob/master/LICENSE
 
 #### Jenkins
 - MIT
