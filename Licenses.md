@@ -310,9 +310,18 @@
 - PHP License v3.01
 - https://www.php.net/license/index.php
 
-#### phpMyadmin
+#### phpMyAdmin
 - GPL v2
 - https://github.com/phpmyadmin/phpmyadmin/blob/master/LICENSE
+
+#### phpPgAdmin
+- GPL (v2 or later)
+- https://github.com/phppgadmin/phppgadmin/blob/master/LICENSE
+
+#### pgAdmin
+- The PostgreSQL License
+- https://www.pgadmin.org/licence/
+- https://github.com/postgres/pgadmin4/blob/master/LICENSE
 
 #### PIMCore
 - GPL v3
