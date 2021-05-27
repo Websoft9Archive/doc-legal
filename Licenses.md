@@ -433,9 +433,14 @@
 - VPL 1.1
 - https://www.vtiger.com/open-source-crm/vtiger-public-license/
 
+#### WAMPServer
+- GPL
+- https://opensource.org/licenses/gpl-license
+
 #### Wordpress
 - GPL v2
 - https://github.com/WordPress/WordPress/blob/master/license.txt
+- https://wordpress.org/about/license/
 
 #### Xcache
 - BSD 3-Clause
@@ -467,7 +472,3 @@
 
 #### Zend Framework
 - https://github.com/zendframework/zendframework/blob/master/LICENSE.md
-
-#### WAMPServer
-- GPL
-- https://opensource.org/licenses/gpl-license
