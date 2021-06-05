@@ -188,7 +188,7 @@
 
 #### Laravel
 - MIT
-- https://opensource.org/licenses/MIT
+- https://github.com/laravel/framework/blob/8.x/LICENSE.md
 
 #### Magento Community
 - OSL 3.0
