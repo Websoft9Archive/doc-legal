@@ -8,13 +8,18 @@
 
 以下是公司运营常见的法律法规，链接来源于[国家法律法规数据库](https://flk.npc.gov.cn/)
 
-* [《劳动法》](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYyMGYxNmVlMTE3Mzc%3D)
-* [《广告法》](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYxY2Y4ZGEzNzEyMjg%3D)
 * [《刑法》](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY2OTIyNTA0YmY%3D)  85-87 条款为计算机相关犯罪条款
+* [《民法典》](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3MjlkMWVmZTAxNzI5ZDUwYjVjNTAwYmY%3D)
+* [《合伙企业法》](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY2M2RjZTAzNGQ%3D)
+* [《劳动法》](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYyMGYxNmVlMTE3Mzc%3D)
+* [《劳动合同法》](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3NGQ3MTA2YjM%3D)
+* [《广告法》](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYxY2Y4ZGEzNzEyMjg%3D)
 * [《网络安全法》](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4Mjc2ZjA5M2Q%3D)
 * [《电子商务法》](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4YWYwNTBiODE%3D)
 * [《公司法》](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYxY2M5OGFkODExMzQ%3D)
 * [《商标法》](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYyMTc2NDU0NTFiMzU%3D)
+* [《专利法》](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTJiN2Q0MzAxNzVlNDY1MWNiZDE1NDc%3D)
+* [《著作权法》](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTJiN2Q0MzAxNzVlNDc2NmJhYjE1NTc%3D)
 * [《安全生产法》](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3NmU5OTA3MzU%3D)
 * [《企业所得税法》](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYyMTA2YWNkMTE3ODQ%3D)
 * [《个人所得税法》](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3MjRiZDA2MDk%3D)
