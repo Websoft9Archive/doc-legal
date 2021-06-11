@@ -78,9 +78,9 @@
 - MIT
 - https://github.com/bcit-ci/CodeIgniter/blob/develop/license.txt
 
-#### Coder
+#### Code-server
 - MIT
-- https://github.com/cdr/code-server/blob/master/LICENSE
+- https://github.com/cdr/code-server/blob/main/LICENSE.txt
 
 #### Couchbase
 - Apache-2.0
