@@ -107,6 +107,10 @@
 - Apache-2.0
 - https://gitee.com/Discuz/Discuz-Q-uniapp/blob/master/LICENSE
 
+#### Django
+- 3-clause BSD license
+- https://github.com/django/django/blob/main/LICENSE.python
+
 #### Docker
 - Apache-2.0
 - https://github.com/docker/docker-ce/blob/master/components/engine/LICENSE
