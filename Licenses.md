@@ -14,6 +14,10 @@
 - MIT
 - https://github.com/mrvautin/adminMongo/blob/master/LICENSE
 
+#### Ansible
+- GPL-3.0
+- https://github.com/ansible/ansible/blob/devel/COPYING
+
 #### Apache
 - Apache-2.0
 - https://www.apache.org/licenses/LICENSE-2.0
