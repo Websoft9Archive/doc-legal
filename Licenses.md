@@ -14,7 +14,11 @@
 - MIT
 - https://github.com/mrvautin/adminMongo/blob/master/LICENSE
 
-#### Ansible
+#### Alfresco
+- Apache-2.0
+- https://github.com/Alfresco/acs-deployment/blob/master/LICENSE
+
+- #### Ansible
 - GPL-3.0
 - https://github.com/ansible/ansible/blob/devel/COPYING
 
