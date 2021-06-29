@@ -123,6 +123,10 @@
 - Apache-2.0
 - https://github.com/docker/docker-ce/blob/master/components/engine/LICENSE
 
+#### Dolibarr
+- GPL v3
+- https://github.com/Dolibarr/dolibarr/blob/develop/COPYING
+
 #### Drupal
 - GPL v2
 - https://github.com/drupal/drupal/blob/8.8.x/core/LICENSE.txt
