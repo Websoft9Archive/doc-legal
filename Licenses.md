@@ -388,6 +388,14 @@
 - MIT
 - https://github.com/RocketChat/Rocket.Chat/blob/develop/LICENSE
 
+#### Ruby
+- Ruby License
+- https://www.ruby-lang.org/en/about/license.txt
+
+#### Rails
+- MIT
+- https://opensource.org/licenses/mit-license.php
+
 #### Sakai
 - ECL-2.0
 - https://github.com/sakaiproject/sakai/blob/master/LICENSE
