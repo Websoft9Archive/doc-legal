@@ -461,6 +461,10 @@
 - GPL
 - https://opensource.org/licenses/gpl-license
 
+#### Webmin
+- All recent versions of Webmin are under a BSD-like licence, meaning that it may be freely distributed and modified for commercial and non-commercial use.
+- https://webmin.com/intro.html
+
 #### Wordpress
 - GPL v2
 - https://github.com/WordPress/WordPress/blob/master/license.txt
