@@ -26,6 +26,7 @@
 * [《计算机软件保护条例》](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MDRiZTRhZjAyYWQ%3D)
 * [《计算机信息系统安全保护条例》](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTI4ZGVhNDFhNWI%3D)
 * [《计算机信息网络国际联网安全保护管理办法》](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MGRkYTNkZDA4MmY%3D)
+* [《中华人民共和国数据安全法》](https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE3OWY1ZTA4MDAxNzlmODg1YzdlNzAzOTI%3D)
 * [《互联网信息服务管理办法》](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTE4ZTQ3NjE2ZjE%3D)
 * [《突发公共卫生事件应急条例》](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MGQ2ZmQzYzA2YTA%3D)
 * [《增值税暂行条例》](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTE4NGY5YjE2ZDA%3D)
