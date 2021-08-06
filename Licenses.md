@@ -78,6 +78,10 @@
 - GPL v2
 - https://github.com/CentOS/CentOS-Dockerfiles/blob/master/LICENSE
 
+#### CloudBeaver
+- Apache-2.0
+- https://github.com/dbeaver/cloudbeaver/blob/devel/LICENSE
+
 #### Concrete5
 - MIT
 - https://github.com/concrete5/concrete5/blob/develop/LICENSE.TXT
