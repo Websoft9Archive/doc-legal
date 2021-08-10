@@ -283,7 +283,7 @@
 - AGPL v3
 - https://github.com/ONLYOFFICE/DocumentServer/blob/master/LICENSE.txt
 
-#### ONLYOFFICE Community Edition
+#### ONLYOFFICE Community Edition (Starting from version 11.0, Community Server is distributed as ONLYOFFICE Groups on terms of Apache License.)
 - Apache 2.0
 - https://github.com/ONLYOFFICE/CommunityServer/blob/master/LICENSE
 
