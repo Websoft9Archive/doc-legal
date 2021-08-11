@@ -73,7 +73,7 @@ You may not modify the Software Product or create any derivative work of the Sof
 
 You may not copy any part of the Software Product except to the extent that licensed use inherently demands the creation of a temporary copy stored in computer memory and not permanently affixed on storage medium. You may make one archival copy which must be stored on a medium other than a computer hard drive.
 
-### Payment Terms, Disputes and Offsets.
+### Payment Terms, Disputes and Offsets
 
 Customer shall pay the total purchase as specified in the invoice.
 
