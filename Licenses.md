@@ -160,6 +160,10 @@
 - https://gitlab.com/gitlab-org/gitlab-foss/blob/master/LICENSE
 - https://docs.gitlab.com/ce/development/licensing.html
 
+#### GNOME
+- GPL，either version 2 or any later version
+- https://help.gnome.org/admin/gdm/stable/license.html
+
 #### Gogs
 - MIT
 - https://github.com/gogs/gogs/blob/master/LICENSE
