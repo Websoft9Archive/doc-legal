@@ -202,6 +202,10 @@
 - GPL v2
 - https://github.com/joomla/joomla-cms/blob/staging/LICENSE.txt
 
+#### KDE
+- AGPL v3
+- https://community.kde.org/Policies/Licensing_Policy
+
 #### Knowage Community Edition
 - AGPL v3
 - https://github.com/KnowageLabs/Knowage-Server/blob/master/LICENSE
