@@ -230,6 +230,10 @@
 - GPL v2
 - https://github.com/MariaDB/server/blob/10.5/COPYING
 
+#### Mate Desktop
+- GPL v2
+- https://github.com/mate-desktop/mate-desktop/blob/master/COPYING
+
 #### Mattermost
 - MIT License (即 AGPL v3 + Apache 2.0)
 - https://github.com/mattermost/mattermost-server/blob/master/LICENSE.txt
