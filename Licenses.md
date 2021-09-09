@@ -102,7 +102,7 @@
 
 #### CouchDB
 - Apache-2.0
-- https://www.apache.org/licenses/LICENSE-2.0
+- https://github.com/apache/couchdb/blob/main/LICENSE
 
 #### Countly
 - AGPL v3 with modified Section 7
