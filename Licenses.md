@@ -493,6 +493,10 @@
 - xDebug License V1.02
 - https://github.com/xdebug/xdebug/blob/master/LICENSE
 
+#### Xfce 4
+- Xfce 4 components are licensed under free or open source licenses: GPL or BSDL for applications and LGPL or BSDL for libraries.
+- https://docs.xfce.org/faq#under_which_license_is_xfce_distributed
+
 #### YouTrack
 - Apache-2.0
 - https://github.com/JetBrains/youtrack-workflows/blob/master/LICENSE.txt
