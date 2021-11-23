@@ -235,8 +235,9 @@
 - https://github.com/mate-desktop/mate-desktop/blob/master/COPYING
 
 #### Mattermost
-- MIT License (即 AGPL v3 + Apache 2.0)
+- MIT License
 - https://github.com/mattermost/mattermost-server/blob/master/LICENSE.txt
+- https://mattermost.org/licensing/
 
 #### Mediawiki
 - GPL v2
