@@ -321,6 +321,10 @@
 - https://github.com/oracle/oracle-linux/blob/main/LICENSE
 - https://oss.oracle.com/licenses/upl/
 
+在官网提供的第三方声明与许可链接页面：https://oss.oracle.com/linux/legal/oracle-list.html Oracle Linux对应显示为 GPL
+![image](https://user-images.githubusercontent.com/54173243/147202976-2b3989a5-3676-4fb9-a2c6-1c6e99df13b9.png)
+
+
 #### ownCloud
 - AGPL v3
 - https://github.com/owncloud/core/blob/master/COPYING
