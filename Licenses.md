@@ -317,8 +317,9 @@
 - https://github.com/openssl/openssl/blob/master/LICENSE
 
 #### Oracle Linux
-- GPL v2
-- https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+- GPL v2（原？）
+- UPL v1.0
+- https://github.com/oracle/oracle-linux/blob/main/LICENSE
 
 #### ownCloud
 - AGPL v3
