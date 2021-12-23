@@ -317,12 +317,18 @@
 - https://github.com/openssl/openssl/blob/master/LICENSE
 
 #### Oracle Linux
-- UPL v1.0
+- GPL v2 （官方容器镜像的Github链接，最后更新于2018-5-20）
+- https://github.com/oracle/container-images/blob/main/LICENSE
+-
+- UPL v1.0（开始使用 Oracle Linux 的脚本、示例和教程，更新于2019-6-25）
 - https://github.com/oracle/oracle-linux/blob/main/LICENSE
 - https://oss.oracle.com/licenses/upl/
 
-在官网提供的第三方声明与许可链接页面：https://oss.oracle.com/linux/legal/oracle-list.html Oracle Linux对应显示为 GPL
+在官网提供的第三方声明与许可链接页面：https://oss.oracle.com/linux/legal/oracle-list-x86.html Oracle Linux对应显示为 GPL,GPLv2
 ![image](https://user-images.githubusercontent.com/54173243/147202976-2b3989a5-3676-4fb9-a2c6-1c6e99df13b9.png)
+
+![image](https://user-images.githubusercontent.com/54173243/147203426-fb12b8c6-c559-4a80-88aa-50eff8121be1.png)
+
 
 
 #### ownCloud
