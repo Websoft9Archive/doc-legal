@@ -64,7 +64,8 @@
 
 #### 宝塔BT
 - 宝塔开源许可协议
-- https://github.com/aaPanel/BaoTa/blob/master/license.txt
+- https://github.com/aaPanel/BaoTa/blob/7.x/license.txt
+- https://www.bt.cn/kyxy.html
 
 #### CakePHP
 - MIT
