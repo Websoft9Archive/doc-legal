@@ -136,7 +136,7 @@
 - GPL v2
 - https://github.com/drupal/drupal/blob/8.8.x/core/LICENSE.txt
 
-#### ELK
+#### Elasticsearch
 - Elastic Lisence 2.0
 - https://github.com/elastic/elasticsearch/blob/7.16/licenses/ELASTIC-LICENSE-2.0.txt
 
