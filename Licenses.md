@@ -446,6 +446,10 @@
  Seahub (Seafile server Web UI): Apache License v2
 - https://github.com/haiwen/seafile/blob/master/LICENSE.txt
 
+#### SS CMS (Siteserver CMS)
+- AGPL v3
+- https://github.com/siteserver/cms/blob/master/LICENSE
+
 #### Smarty
 - LGPL V3
 - https://github.com/smarty-php/smarty/blob/master/LICENSE
