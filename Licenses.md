@@ -93,7 +93,7 @@
 
 #### Code-server
 - MIT
-- https://github.com/cdr/code-server/blob/main/LICENSE.txt
+- https://github.com/coder/code-server/blob/main/LICENSE
 
 #### Couchbase
 - Apache-2.0
