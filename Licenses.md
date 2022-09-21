@@ -156,6 +156,10 @@
 - LGPL V3
 - https://github.com/eddic/fastcgipp/blob/master/COPYING
 
+#### FASTPANEL
+- MIT
+- https://fastpanel.direct/assets/docs/agreement_en.pdf
+
 #### Ghost
 - MIT
 - https://github.com/TryGhost/Ghost/blob/master/LICENSE
