@@ -246,6 +246,10 @@
 - GPL v2
 - https://github.com/mate-desktop/mate-desktop/blob/master/COPYING
 
+#### Matomo
+- GPL v3
+- https://github.com/matomo-org/matomo/blob/4.x-dev/LICENSE
+
 #### Mattermost
 - MIT License
 - https://github.com/mattermost/mattermost-server/blob/master/LICENSE.txt
