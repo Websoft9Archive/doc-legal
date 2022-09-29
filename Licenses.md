@@ -14,7 +14,11 @@
 - MIT
 - https://github.com/mrvautin/adminMongo/blob/master/LICENSE
 
-#### Alfresco
+#### Akeneo
+- OSL V3
+- https://github.com/akeneo/pim-community-standard/blob/master/LICENCE.txt
+
+- #### Alfresco
 - Apache-2.0
 - https://github.com/Alfresco/acs-deployment/blob/master/LICENSE
 
