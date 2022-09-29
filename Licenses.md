@@ -347,7 +347,6 @@
 ![image](https://user-images.githubusercontent.com/54173243/147203426-fb12b8c6-c559-4a80-88aa-50eff8121be1.png)
 
 
-
 #### ownCloud
 - AGPL v3
 - https://github.com/owncloud/core/blob/master/COPYING
@@ -461,6 +460,13 @@
 #### SS CMS (Siteserver CMS)
 - AGPL v3
 - https://github.com/siteserver/cms/blob/master/LICENSE
+
+#### SRS (simple realtime video server)
+- SPDX-License-Identifier: MIT （4 < version < 5)
+- https://github.com/ossrs/srs/blob/develop/LICENSE
+- 具体说明：https://github.com/ossrs/srs/commit/67272f0721db044d98e324df23bc0d2a3e8817c8#commitcomment-51515520
+- MIT or MulanPSL-2.0（v5)
+- https://github.com/ossrs/srs/blob/develop/LICENSE.DUAL
 
 #### Smarty
 - LGPL V3
