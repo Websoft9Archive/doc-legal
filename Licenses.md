@@ -462,10 +462,11 @@
 - https://github.com/siteserver/cms/blob/master/LICENSE
 
 #### SRS (simple realtime video server)
-- SPDX-License-Identifier: MIT （4 < version < 5)
+- SPDX-License-Identifier: MIT（from SRS 4)
 - https://github.com/ossrs/srs/blob/develop/LICENSE
-- 具体说明：https://github.com/ossrs/srs/commit/67272f0721db044d98e324df23bc0d2a3e8817c8#commitcomment-51515520
-- MIT or MulanPSL-2.0（v5)
+  - https://ossrs.net/lts/zh-cn/license
+  - https://github.com/ossrs/srs/commit/67272f0721db044d98e324df23bc0d2a3e8817c8#commitcomment-51515520 
+- MIT or MulanPSL-2.0（from SRS 5)
 - https://github.com/ossrs/srs/blob/develop/LICENSE.DUAL
 
 #### Smarty
