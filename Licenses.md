@@ -317,6 +317,9 @@
 - Apache 2.0
 - https://github.com/ONLYOFFICE/CommunityServer/blob/master/LICENSE
 
+#### ONLYOFFICE license list
+- https://www.onlyoffice.com/legalterms.aspx
+
 #### OpenCart
 - GPL v3
 - https://github.com/opencart/opencart/blob/master/license.txt
