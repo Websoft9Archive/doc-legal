@@ -464,8 +464,8 @@
 #### SRS (simple realtime video server)
 - SPDX-License-Identifier: MIT（from SRS 4)
 - https://github.com/ossrs/srs/blob/develop/LICENSE
-  - https://ossrs.net/lts/zh-cn/license
-  - https://github.com/ossrs/srs/commit/67272f0721db044d98e324df23bc0d2a3e8817c8#commitcomment-51515520 
+  - 官网说明：https://ossrs.net/lts/zh-cn/license
+  - 具体内容：https://github.com/ossrs/srs/commit/67272f0721db044d98e324df23bc0d2a3e8817c8#commitcomment-51515520 
 - MIT or MulanPSL-2.0（from SRS 5)
 - https://github.com/ossrs/srs/blob/develop/LICENSE.DUAL
 
