@@ -271,9 +271,13 @@
 - AGPL v3
 - https://github.com/metabase/metabase/blob/master/LICENSE.txt
 
+#### Mingdao
+- Apache 2.0
+- https://github.com/mingdaocom/pd/blob/master/LICENSE
+
 #### ModSecurity
 - Apache 2.0
--https://github.com/SpiderLabs/ModSecurity/blob/v3/master/LICENSE
+- https://github.com/SpiderLabs/ModSecurity/blob/v3/master/LICENSE
 
 #### MongoDB Community
 - SSPL
